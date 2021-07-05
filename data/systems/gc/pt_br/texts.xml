@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 2001 (JP, US) 2002 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 21.74 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Melhor venda : Super Smash Bros. Melee</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 128-bit IBM Gekko PowerPC @ 485 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 43 MB total non-unified RAM</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video : 162 MHz "Flipper" LSI</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolução : 640×480 480i or 480p - 60 Hz</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Som : 16-bit Dolby Pro Logic II</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Media : 1.5 GB miniDVD</text>
+		</text>
+		
+	</view>
+	
+</theme>

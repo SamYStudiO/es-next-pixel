@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Sinclair Research</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>ОС : Sinclair BASIC</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Год выпуска : 1982</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Продано устройств : 5 миллионов</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : Z80 на 3.5 МГц и эквивалентных</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Память : 16 Кб / 48 Кб / 128 Кб</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Медиа : Кассетная плёнка, 3-дюймовый дисковод на Spectrum +3</text>
+		</text>
+		
+	</view>
+	
+</theme>

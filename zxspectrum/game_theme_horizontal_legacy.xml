@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../data/games/$random(chase_hq,chuckie_egg)/horizontal_legacy.xml</include>
+
+</theme>

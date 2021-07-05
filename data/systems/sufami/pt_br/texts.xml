@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Bandai</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1996 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Media : SuFami Turbo Application Cartridge +  Game Cartridges</text>
+		</text>
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+		<text name="info5" extra="true">
+			<text>O SuFami Turbo da Bandai deu aos desenvolvedores maneiras mais baratas de produzir e</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>lança um pequeno punhado de jogos Super Famicom.</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Os dois slots de cartucho foram projetados para compartilhar dados entre os jogos.</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>O slot A será para jogar, enquanto o slot B fornece dados adicionais.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1995 (JP, US)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 800 000</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : VB Wario Land</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 32Bit NEC V810 RISC на 20МГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 1Mbits DRAM 512кб P-SRAM</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Цвета : 4 цвета / 32 уровня интенсивности</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 384 x 224 пикселей</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Экран : 2 RTI светодиодов</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Звук : 16-битный стерео</text>
+		</text>
+		
+	</view>
+	
+</theme>

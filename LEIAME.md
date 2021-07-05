@@ -1,129 +1,124 @@
-### Olà e benvindo ao téma [Next Pixel](https://samystudio.github.io/es-theme-next-pixel/) para [Recalbox](https://www.recalbox.com/)
-Este tema é feito para ter uma imagem em pleno écrã que define melhor cada sistema de jogo (ou o melhor possivel), evitando de usar capturas de jogos en jogo.
-A maior parte dos sistemas têm igualemente uma musica e uma icone de nota que corresponde ao jogo.
-E baseado no tema recalbox-next, terà entao todas as ventagens (configurações de região, lista de jogos, etc...) + varias opções de vosso gosto.
+### Olá e bem-vindo(a) ao tema [Next Pixel v2](https://samystudio.github.io/es-theme-next-pixel/) para [Recalbox](https://www.recalbox.com/)
+### !!! More game themes, more retro, more emotional !!!
+Este tema foi projetado para exibir uma imagem em tela cheia para cada sistema que corresponda a uma ilustração da caixa do jogo ou a um trabalho artístico da época em que o jogo foi lançado. Todos os sistemas exibirão aleatoriamente **um tema de jogo diferente cada vez que a Recalbox for iniciado** (pelo menos 2 temas de jogo estão disponíveis para cada sistema).
+É baseado no tema recalbox-next, terá então todas as vantagens (configurações de região, configurações de layout da lista de jogos, etc...) + várias opções para que você possa obter um visual que se adapte a você.
 
-**O tema está configurado por padrão para usar um mix personalizado para descartar as imagens do jogo. Leia atentamente a documentação abaixo para obter mais informações, mesmo se você não quiser usá-lo, pois terá que ajustar a opção GAMELISTVIEW do tema para que funcione corretamente com outras misturas**.
+**O tema está configurado por padrão para usar um mix personalizado ao fazer scrape das imagens dos jogos, por favor, leia atentamente a documentação abaixo para obter mais informações, mesmo se você não quiser usá-lo, pois terá que ajustar a opção GAMELISTVIEW do tema para que funcione corretamente com outros mixes**.
  
-**Tema é compativel com Recalbox 7.0+ e com écrã 16:9, 4:3 e pequenos écrãs 4:3 como o GPi CASE**.
+**O tema é compativel com Recalbox 7.3+ e com telas 16:9, 4:3 ou mesmo pequenas telas 4:3 como o GPi CASE**.
 
-Aqui têm varios srceenschot usado as diferentes configurações :
+Aqui estão algumas capturas de telas de alguns temas de jogos disponíveis:
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/0.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/nes.png)
 
-![1](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/1.png)
+![1](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/megadrive.png)
 
-![2](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/2.png)
+![2](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gx4000.png)
 
-![3](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/3.png)
+![3](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/atari5200.png)
 
-![4](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/4.png)
+![4](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/neogeo.png)
 
-![5](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/5.png)
+![5](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/atarist.png)
 
-![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/6.png)
+![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/pcengine.png)
 
-![7](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/7.png)
+![7](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelist.png)
 
 ![vectrex](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
 
-Veja todos os sistemas: [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
+Veja todas as imagens de temas de jogos no [website Next Pixel](https://samystudio.github.io/es-theme-next-pixel/).
 
 
-### Installação
-Para instalar o tema faça drag-and-drop da apsta es-theme-next-pixel-xxx no vosso recalbox/themes folder. Depois mude es-theme-next-pixel-xxx nas opções de tema no Recalbox (UI SETTINGS > THEME > THEME SET).
-
-Este tema suporta Randomizer script, veja  [link](https://github.com/Voljega/scripts4recalbox/tree/master/Randomizer) para ter mais informações (**Atenção : na guia para instalar "Copying theme/random directory..." não é recomendado como este tema é extra modificacão**). 
+### Instalação
+Para instalar o tema, arraste e solte a pasta es-theme-next-pixel-xxx em sua pasta recalbox/themes. Depois disso, escolha o tema es-theme-next-pixel-xxx nas opções de tema no Recalbox (CONFIGURAÇÕES DA INTERFACE> TEMA> CONFIGURAÇÕES DO TEMA).
 
 
 ### Opções
-- **THEME COLORSET** :escolha entre várias configurações de cores sotaque claro, escuro ou de jogo, o sotaque do jogo colorirá alguns elementos usando uma imagem real do sistema, algumas configurações podem combinar sotaque claro, escuro e de jogo, tente-os para encontrar o melhor para você.
-- **THEME ICONSET** : escolha ícones usados ​​para a ajuda inferior esquerda (o mesmo que recalbox-next).
-- **THEME MENU** : escolha Recalbox menu estilo (o mesmo que recalbox-next com um estylo esxlusivo do tema Next Pixel).
-- **THEME SYSTEMVIEW** : escolha entre a roda vertical ou a visualização horizontal do sistema; para cada uma delas há 3 opções para exibir informações do sistema (informações de 4 linhas, todas as informações de linhas ou nenhuma informação), **ao usar a roda vertical, use CONFIGURAÇÕES DA UI> TEMA> ESTILO DE TRANSIÇÃO> INSTANTÂNEO para uma melhor aparência**.
-- **THEME GAMELISTVIEW**: escolha o layout da visualização gamelist, você pode mostrar / ocultar elementos diferentes e para cada um pode ajustar para **Next Pixel mix** ou outros mixes. **Se você não quiser usar o Next Pixel mix, selecione qualquer opção "other mixes" aqui ou obterá alguns recursos gráficos estranhos sobrepondo suas imagens scrapidas** (marque *Scraping/Next Pixel mix* abaixo para obter mais informações).
-- **THEME REGION** : escolha sua região para ajustar logo/console imagens (como no recalbox-next).
+- **THEME COLORSET** : escolha entre várias configurações de cores: claro, escuro ou destaque do jogo, o destaque do jogo colorirá alguns elementos usando uma imagem real do sistema, algumas configurações podem combinar claro, escuro e destaque de jogo, experimente-os para encontrar o melhor para você.
+
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/color.gif)
+
+- **THEME ICONSET** : escolha os ícones a serem utilizados ​​para a ajuda inferior esquerda (o mesmo que recalbox-next).
+- **THEME MENU** : escolha o estilo do menu Recalbox (o mesmo que recalbox-next, com um estilo esxlusivo do tema Next Pixel).
+- **THEME SYSTEMVIEW** : escolha entre a roda vertical ou a visualização horizontal do sistema; para cada uma delas há 3 opções para exibir informações do sistema (informações de 4 linhas, todas as linhas de informações, ou, nenhuma informação), **ao usar a roda vertical, use CONFIGURAÇÕES DA INTERACE> TEMA> ESTILO DE TRANSIÇÃO> INSTANTÂNEO para uma melhor aparência**.
+
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/systemview.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/info.gif)
+
+- **THEME GAMELISTVIEW** : escolha o layout da visualização da lista de jogos, você pode exibir / ocultar elementos diferentes e para cada um pode ajustar para **Next Pixel mix** ou outros mixes. **Se você não quiser usar o Next Pixel mix, selecione qualquer opção  de "other mixes" aqui ou obterá alguns recursos gráficos estranhos sobrepondo suas imagens de scrape** (verifique *Scraping/Next Pixel mix* abaixo para obter mais informações).
+
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelistview.gif)
+
+- **THEME REGION** : escolha sua região para ajustar o logotipo / console para corresponder à sua região preferida.
 
 
 ### Scraping / Next Pixel mix
-Next Pixel tema agora inclui seus proprios mix para fazer screenshots e videos snaps, a integração é cada vez mehor. Se você nunca ouviu falar de mixagens, são apenas essas imagens que você pode baixar juntamente com informações / descrição do jogo usando o raspador interno Recalbox ou usando um raspador externo como o [Skraper] (https://www.skraper.net/). Melhor do que uma descrição longa, aqui estão duas capturas usando mix padrão e mix Next Pixel.
+O tema Next Pixel inclui seu próprio mix para tornar a integração das capturas de tela e dos videos snaps ainda melhor. Se você nunca ouviu falar de mixagens, são apenas essas imagens que você pode baixar juntamente com informações / descrição do jogo usando o scraper interno do Recalbox ou usando um scraper externo como o [Skraper] (https://www.skraper.net/). Melhor do que uma descrição longa, aqui estão duas capturas usando o mix padrão e mix Next Pixel.
 
-**Standard mix**
+**Mix Padrão**
 
 ![snes_old](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes_old.gif)
 
-**Next Pixel mix**
+**Mix Next Pixel**
 
 ![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes.gif)
 
-**Para ter mais informações sobre como usar Next Pixel mix, vejacheck [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/data/mix/LEIAME.md).**
+**Para obter mais informações sobre como usar o Mix Next Pixel, verifique a [documentação](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/data/mix/LEIAME.md).**
 
-**Se não que usar o Next Pixel mix escolhe  "others mixes" opçõa de tem na opção GAMELISTVIEW ou você terá alguns recursos gráficos estranhos sobrepondo suas imagens scrapadas**. Pressione Iniciar> CONFIGURAÇÕES DA IU> TEMA> CONFIGURAÇÃO DO TEMA> VISÃO GERAL DO TEMA> escolha qualquer layout com "outras mix".
-
-
-### Vários temas de jogos do sistema
-Alguns sistemas podem conter vários temas de jogos; nesse caso, a pasta do sistema é duplicada com o sufixo "_2", "_3", "_x" [pasta] _2, [pasta] _3, [pasta] _x (por exemplo, cavestory_2), se você Se preferir mídias nessa pasta, remova ou renomeie a pasta original para renomear [pasta] _x para [pasta] (é necessário reiniciar o Recalbox se estiver em execução).
-Sistemas reais com vários temas de jogos:
-- atarista: 1 tema de jogo com 2 imagens diferentes disponíveis
-- cavestory: 1 tema de jogo com 2 imagens diferentes disponíveis
-- gameboy: 3 temas de jogos diferentes disponíveis
-- megadrive: 2 temas de jogos diferentes disponíveis
-- n64: 4 temas de jogos diferentes disponíveis
-- nds: 2 temas de jogos diferentes disponíveis
-- nes: 2 temas de jogos diferentes disponíveis
-- ps3: 2 temas de jogos diferentes disponíveis
-- psp: 2 temas de jogos diferentes disponíveis
-- psx: 2 temas de jogos diferentes disponíveis
-- segacd: 2 temas de jogos diferentes disponíveis
-- snes: 5 temas de jogos diferentes disponíveis
-- wii: 2 temas de jogos diferentes disponíveis
-
-Para ajudá-lo a escolher, todas as imagens do sistema são visíveis no [site Next Pixel] (https://samystudio.github.io/es-theme-next-pixel/) ou, se você não puder fazer sua escolha, considere usar aleatoriamente Para que, cada vez que você inicie o Recalbox, obtenha um tema diferente, leia a próxima seção para obter mais informações.
+**Se não quiser usar o Mix Next Pixel, selecione qualqer opção de "others mixes" nas configurações de GAMELISTVIEW do tema, ou você terá alguns recursos gráficos estranhos sobrepondo suas imagens de scrape**. Aperte Start> CONFIGURAÇÕES DA INTERFACE> TEMA> CONFIGURAÇÃO DO TEMA> VISÃO GERAL DO TEMA> escolha qualquer layout com "others mixes".
 
 
-###Temas de jogos aleatórios do sistema
-O tema Próximo pixel inclui um script de início personalizado para o Recalbox alterar aleatoriamente os temas dos jogos do sistema. Como visto anteriormente, alguns sistemas podem conter vários temas de jogos, ao usar esse script, esses sistemas carregam aleatoriamente um tema de jogo quando o Recalbox é iniciado. Este script chamado "S997próximo-pixel-aleatório-sistema-jogo-tema" está localizado na instalação raiz do tema Próximo pixel. Você precisa soltar esse arquivo na pasta Recalbox */etc/init.d/*. Para fazer isso, você pode usar a ferramenta de linha de comando com o PuTTy ou uma ferramenta como [WinSCP] (https://github.com/recalbox/recalbox-os/wiki/Network-access-with-WinSCP- (EN)) para conectar-se a seu Recalbox. Você pode ler [this] (https://github.com/recalbox/recalbox-os/wiki/Add-your-own-startup-script- (EN)) para obter mais informações sobre como iniciar scripts.
-**Não esqueça de permitir acesso de gravação antes de soltar seu arquivo**.
-- Se você estiver usando o PuTTy, use o comando *mount -o remount, rw /*.
-- Se você estiver usando o console aberto do WinSCP (Ctrl + T), digite o comando * mount -o remount, rw / * e clique em Executar.
+### Customize Next Pixel (Make your own favorites !)
+Next Pixel theme use random game theme lists for each systems. This game theme lists can be customized by editing each *[system name]/games.sh* files. For example you may want to customize favorites system game themes with your own favorites as by default Next Pixel theme comes up with **my** personal favorites.
 
-**O script de nota pressupõe que você use a instalação padrão da pasta de temas Next Pixel**. Se você alterou o nome da pasta de instalação do Next Pixel, precisará ajustar o script ou restaurar o nome da pasta de instalação do tema Next Pixel.
-- Se você deseja ajustar o script, abra o arquivo com um editor de texto e ajuste a segunda linha para corresponder à sua pasta de instalação do tema Next Pixel *cd/recalbox/share/themes/[defina sua próxima pasta de tema pixel aqui]/*
-- Se você preferir restaurar o nome da pasta de instalação, aqui está o nome certo, dependendo do seu pacote:
-  - **1080p** : es-theme-next-pixel-1080p
-  - **720p** : es-theme-next-pixel-720p
-  - **480p** : es-theme-next-pixel-480p
-  - **crt** : es-theme-next-pixel-crt
-  - **crt-small** : es-theme-next-pixel-crt-small
+Note by default game themes are all set up correctly with the right system (but favorites system of course). I made lots of researches to find out which game were available and most popular at the time system was running. **All game themes match an official game box for that system**, so you may notice for example that earthworm jim game theme is available for super nintendo and megadrive/genesis but not from sega cd though it was a pretty popular version. This is intented beacause sega cd version box used a different art than super nintendo and megadrive/genesis. Note as well that games chosen for a system may not always be the most popular due to the fact it may be very difficult to find a source image with the right quality for this theme. If you notice any mistake or think a game theme should be available from another system though, tell me i'll check it.
 
-**Quando o script for deixado na pasta correta, não se esqueça de alterar a permissão do arquivo, para que o Recalbox permita executá-lo**.
-- Se você estiver usando o PuTTy, use o comando *chmod + x S997next-pixel-random-system-game-theme*.
-- Se você estiver usando o WinSCP, clique com o botão direito do mouse no arquivo *S997next-pixel-random-system-game-theme* e em *Permissions* marque todas as caixas de execução "X".
+Enough talking let's edit game theme list from favorites system. Open *games.sh* from *favorites* folder and edit game themes you want by removing everything between *# Edit game list below* and *# Do not edit below this line* and adding your own game themes. You can see all game theme available from *data/games/* folder, just copy game folder names you want in *games.sh* file.
+
+Please do not modify anything outside of *# Edit game list below* and *# Do not edit below this line* if you don't know what you're doing this may break next step.
+
+**Note editing file is not enough to make those changes available when you run Recalbox**, when you're done editing *games.sh* file close it and **execute it to apply your personnal list**, then restart Recalbox.
 
 
-### Mover um tema de jogo para outro sistema
-Às vezes, um tema de jogo pode corresponder a sistemas diferentes e você pode usar um tema de jogo com outro sistema. Para mover corretamente um tema de jogo para outro sistema, copie todos os arquivos de qualquer pasta do sistema **MAS pasta de dados** e cole-os em outra pasta do sistema onde você deseja aplicar esse tema do jogo.
+### Custom Imageviewer and "last played" systems
+Imageviewer system uses a game theme that hightlights 3 games and "last played" system uses a game theme that hightlights 7 games. The idea behind "last played" system is to highlight 7 games you played in your game history, the smallest one is the older one and the bigger one is the most recent one.
+
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/imageviewer.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/auto-lastplayed.png)
+
+All contributors and donators may ask for a custom version of both system with game themes of their choice (choice is limited to actual available game themes, complete list is available from *data/games* folder).
+
+Contact me to get it!
+
+
+### Suporte não-oficial ao sistema
+O tema Next pixel suporta temas de jogos para sistemas que não são, ou não são mais, suportados pelo Recalbox. 
+Os sistemas extras atualmente suportados são:
+- cavestory
+- doom
+- msx2+
+
+Para adicionar estes sistemas ao Recalbox verifique esta [documentação](https://recalbox.gitbook.io/documentation/other/configuration/display-of-systems#add-a-custom-system)
 
 
 ### Direito autoral
-- Este tema usa imagens / músicas encontradas na Internet. Se você acha que as imagens / músicas usadas neste tema são de sua propriedade ou estão sujeitas a direitos autorais, entre em contato comigo (entre em contato com [at] samystudio.net), removerei-as.
-- O tema é baseado no tema recabox-next, para que alguns ativos possam ser licenciados por [Recalbox] (https://gitlab.com/recalbox/recalbox-themes), a licença Recalbox sempre prevalece para esses ativos (portanto, este tema **licença MIT é aplicável apenas a arquivos xml**).
+- All game theme images are exclusive for Recalbox distribution, if you want to redistribute this theme you'll have to replace these images.
+- O tema é baseado no tema recabox-next,  portanto, alguns ativos podem ser licenciados pelo [Recalbox] (https://gitlab.com/recalbox/recalbox-themes), a licença Recalbox sempre prevalece para esses ativos (portanto, esta **licença MIT do tema é aplicável apenas a arquivos xml**).
 - A câmera e alguns ícones de informações do jogo são de [shareicon] (https://www.shareicon.net).
 - A fonte do Digital Counter 7 usada para o ícone do contador de jogos é de [Sizenko Alexander] (http://www.styleseven.com).
-- O suporte aleatório é do [Voljega] (https://github.com/Voljega/scripts4recalbox).
 - O site usa o [React Image Galery component] (http://www.linxtion.com/demo/react-image-gallery/).
 - A fonte do logotipo Next Pixel é "Color Basic" de [Typodermic Fonts] (http://typodermicfonts.com/).
-- EasyRPG image is a fan art from https://www.deviantart.com/bluecake80/art/Witch-s-heart-748044267.
+- A música do pacman é de: https://www.youtube.com/watch?v=jy-PZR7YnS8.
 
 
-### Contribuir / reportar problémas
-Projecto està no [Github](https://github.com/SamYStudiO/es-theme-next-pixel).
+### Contribuir / reportar problemas
+O Projeto está no [Github](https://github.com/SamYStudiO/es-theme-next-pixel).
 
 Eu preciso de ajuda!
 Se você estiver interessado em se envolver nesse tema, entre em contato comigo usando o [Fórum Recalbox] (https://forum.recalbox.com/topic/16064/recalbox-6-1-snap-videos-custom-mix-next- pixel-theme / 359) ou por e-mail, entre em contato com [at] samystudio.net.
  - Preciso de especialista em photoshop para ajudar a adicionar novos temas de jogos.
- - Preciso de especialista em ilustadores para ajudar a adicionar novos ícones de classificação.
- - Preciso de tradutores; se você pode converter inglês para qualquer idioma, serà bemvindo.
+ - Preciso de tradutores; se você pode converter inglês para qualquer idioma, será bem-vindo(a).
  
 Se você não sabe como contribuir, talvez possa me oferecer uma bebida;)
 
@@ -132,65 +127,66 @@ Se você não sabe como contribuir, talvez possa me oferecer uma bebida;)
 Obrigado pela sua contribuição:
  - [lhari84](https://github.com/lhari84) (tradução de informações do sistema em alemão)
  - rastaware (tradução para o português)
- - MarbleMad (default game theme)
+ - MarbleMad (tema padrão de jogo)
+ - kainsamara (russian systems info translation)
+
 
 ### Download
-Varios pacotes estão disponiveis segundo o vosso ratio e resolução de écrã. Atualemente o tema suporta écrãs 16/9 e 4/3. 
+Vários pacotes estão disponiveis dependendo da proporção e resolução da tela. Na verdade, o tema é totalmente compatível com telas 16: 9 e 4: 3.
 
+#### Telas 16:9
+3 pacotes estão disponivel com imagens 1080p (Telas Full HD, 4K, 8K), imagens 720p (Telas HD) ou imagens 480p (destinadas a usuários do Raspberry).
 
-#### 16:9 screens
-3 pacotes estão disponivel com 1080p imagens (full hd screens, 4K, 8K), 720p imagens (écrãs hd) ou 480p imagens (intended for Raspberry users).
+**Se você é um usuário do Raspberry Pi, leia atentamente as próximas linhas (usuários de PC / Odroid podem pular direto para os links de download e obter pacotes que correspondam melhor à sua resolução de tela)**.
+O Raspberry Pi pode apresentar problemas de memória ao usar muitas imagens. O pacote 720p é o caminho certo a seguir, mesmo se você estiver em uma TV de tela grande 1080p/4K/8K. **Eu recomendo fortemente forçar o Recalbox a rodar em 720p se sua tela estiver rodando em uma resolução mais alta, pois isso melhorará o desempenho e a qualidade das imagens**. Para fazer isso, você precisará editar o arquivo [config.txt] (https://recalbox.gitbook.io/tutorials/v/portugues/sistema/modificacao/editar-o-arquivo-config.txt) usando PuTTy ou WinSCP.
+**Não se esqueça de permitir acesso de gravação antes de modificar seu arquivo.**.
+- Se estiver usando o Putty, use o comando: *mount -o remount,rw /boot* .
+- Se estiver usando o WinSCP, abra o console (Ctrl + T), e use o commando *mount -o remount,rw /boot* e clique em Executar.
 
-**Se você é um usuário do Raspberry Pi, leia atentamente as próximas linhas (usuários de PC / Odroid podem pular para baixar links e obter pacotes que correspondam melhor à sua resolução de tela)**.
-O Raspberry Pi pode causar problemas de memória ao usar muitas imagens. O pacote 720p é o caminho certo a seguir, mesmo se você estiver em uma TV de tela grande 1080p / 4K / 8K. **Eu recomendo forçar o Recalbox a rodar em 720p se a tela estiver com uma resolução mais alta, pois melhorará o desempenho e a qualidade das imagens**. Para fazer isso, você precisará editar [config.txt] (https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file- (EN)) usando PuTTy ou WinSCP.
-**Não esqueça  de por os direitos de escriture antes de modificar o ficheiro**.
-- Se usa Putty : *mount -o remount,rw /boot* .
-- Se usa WinSCP abre a consola (Ctrl + T), e use o commando *mount -o remount,rw /boot* e click Execute.
-
-Neste ficheiro procure *hdmi_group* e *hdmi_mode* e deixe como seguinte :
+Neste arquivo, pesquise por *hdmi_group* e *hdmi_mode* e defina ambos da seguinte forma:
 - hdmi_group=1
 - hdmi_mode=4
 
-Não esqueça de tirar'#' en inicia de linha se està presente.
+Não esqueça de remover o '#' do início dessas linha, se houver.
 
-If you still have issues with 720p (mainly images replaced with white rectangle) **and you already have forced Recalbox to run at 720p** you may try to allocate more gpu memory. Edit the same [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) file, this time search for *gpu_mem_1024=448* and set it to *gpu_mem_1024=512* and once again **Don't forget to allow write access before modify your file**.
+Se ainda tiver problemas com 720p (principalmente imagens substituídas por retângulo branco) **e já tiver forçado o Recalbox a rodar em 720p** pode tentar atribuir mais memória GPU. Edite o mesmo arquivo [config.txt](https://recalbox.gitbook.io/tutorials/v/portugues/sistema/modificacao/editar-o-arquivo-config.txt), desta vez procure por *gpu_mem_1024=448* e configure-o como *gpu_mem_1024=512*, e, mais uma vez, **Não se esqueça de permitir o acesso de gravação antes de modificar o seu arquivo**.
 
-**Warning : PSP emulator may not work anymore, so if you're not using PSP system this shouldn't be a problem**.
+**Atenção: o emulador PSP pode não funcionar mais, por isso, se não estiver usando o sistema PSP, isto não deverá ser um problema**.
 
-If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
+Se não quiser alterar as configurações de memória ou se estiver usando o sistema PSP, então, você deve mudar para o pacote 480p, a qualidade das imagens será menos nítida, mas você poderá usar muitos sistemas sem problemas.
 
-**1080p [DOWNLOAD es-next-pixel-1080p-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-1080p.zip)**
+**1080p [DOWNLOAD es-next-pixel-1080p-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-1080p.zip)**
 
-**720p [DOWNLOAD es-next-pixel-720p-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-720p.zip)**
+**720p [DOWNLOAD es-next-pixel-720p-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-720p.zip)**
 
-**480p [DOWNLOAD es-next-pixel-480p-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-480p.zip)**
+**480p [DOWNLOAD es-next-pixel-480p-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-480p.zip)**
 
-[Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 6.1 or lower.
+[Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) pacotes anteriores para Recalbox 7.2.2 ou inferior.
 
-#### 4:3 Ecrãs
-2 pacotes estão disponíveis com imagens de 1024x768 e imagens de 320x240, se você estiver usando uma tela com resolução maior que 320x240 pick **crt package**, se estiver usando uma tela de 320x240 ou inferior (como GPi CASE), escolha **crt- pacote pequeno**. **Se você estiver usando o pacote 1024x768 com uma tela com resolução maior que 1024x768, recomendo forçar o Recalbox a rodar na mesma resolução, pois isso melhora o desempenho e a qualidade das imagens**. Para fazer isso, você terá que editar [config.txt] (https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file- (EN)) usando PuTTy ou [WinSCP ] (https://github.com/recalbox/recalbox-os/wiki/Network-access-with-WinSCP- (EN)).
-**Não esqueça  de por os direitos de escriture antes de modificar o ficheiro**.
-- Se usa Putty : *mount -o remount,rw /boot* .
-- Se usa WinSCP abre a consola (Ctrl + T), e use o commando *mount -o remount,rw /boot* e click Execute.
+#### Telas 4:3
+2 pacotes estão disponíveis com imagens de 1024x768 e imagens de 320x240, se você estiver usando uma tela com resolução maior que 320x240 escolha **crt package**, se estiver usando uma tela de 320x240 ou inferior (como GPi CASE), escolha **crt-small package**. **Se você estiver usando o pacote 1024x768 com uma tela com resolução maior que 1024x768, recomendo forçar o Recalbox a rodar na mesma resolução, pois isso melhora o desempenho e a qualidade das imagens**. Para fazer isso, você terá que editar [config.txt] (https://recalbox.gitbook.io/tutorials/v/portugues/sistema/acesso/acesso-a-rede-via-winscp).
+**Não se esqueça de permitir acesso de gravação antes de modificar seu arquivo.**.
+- Se estiver usando o Putty, use o comando: *mount -o remount,rw /boot* .
+- Se estiver usando o WinSCP, abra o console (Ctrl + T), e use o commando *mount -o remount,rw /boot* e clique em Executar.
 
-Neste ficheiro procure *hdmi_group* e *hdmi_mode* e deixe como seguinte :
+Neste arquivo, pesquise por *hdmi_group* e *hdmi_mode* e defina ambos da seguinte forma:
 - hdmi_group=2
 - hdmi_mode=16
 
-Não esqueça de tirar'#' en inicia de linha se està presente.
+Não esqueça de remover o '#' do início dessas linha, se houver.
 
-**1024x768 [DOWNLOAD es-next-pixel-crt-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-crt.zip)**
+**1024x768 [DOWNLOAD es-next-pixel-crt-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt.zip)**
 
-**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-crt-small-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-crt-small.zip)**
+**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-crt-small-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt-small.zip)**
 
-[Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 6.1 or lower.
-
-
-### Final words
-**Sou todo ouvidos a qualquer sugestão ou para adicionar imagem / música alternativa ao jogo, não seja tímido**.
+[Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) pacotes anteriores para Recalbox 7.2.2 ou inferior.
 
 
-### License
+### Palavras Finais
+**Sou todo ouvidos a qualquer sugestão ou para adicionar imagem / música alternativa de jogos, não seja tímido**.
+
+
+### Licença
 MIT License
 
 Copyright (c) 2018 mYSt
@@ -202,7 +198,7 @@ usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e / ou vend
 cópias do Software e permitir pessoas a quem o Software está
 fornecido para isso, sujeito às seguintes condições:
 
-O aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todos
+O aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todas
 cópias ou partes substanciais do Software.
 
 O SOFTWARE É FORNECIDO "TAL COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU

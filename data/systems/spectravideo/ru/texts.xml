@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Spectravideo International</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1983</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : Microsoft Extended BASIC, CP/M</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Zilog Z80A на 3.58 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ПЗУ: 32КБ (16 КБ BIОС / 16 КБ BASIC)</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 16КБ (SV-318) и 64Kb (SV-328) / Видеопамять : 16КБ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Видео : Texas Instruments TMS9918</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 256×192, 16 цветов</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук : General Instrument AY-3-8910 (PSG)</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Медиа : ПЗУ Картридж, кассетная плёнка</text>
+		</text>
+		
+	</view>
+	
+</theme>

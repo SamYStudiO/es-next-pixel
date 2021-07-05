@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Programadores : Tangerine Computer Systems</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Construtor : Tangerine Computer Systems</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Tangerine/Microsoft Extended Basic v1.0</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Ano de saida : 1982</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Unidades vendidas : 210000</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>CPU : MOS 6502A @ 1 MHz</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Memoria : 16 KB / 48 KB</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Storage : Tape recorder, 300 and 2400 baud</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Graphics : 40×28 text characters/ 240×200 pixels, 8 colours</text>
+		</text>
+		
+	</view>
+	
+</theme>

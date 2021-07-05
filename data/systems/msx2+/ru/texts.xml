@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Various</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1988</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : MSX BASIC V3.0 (16 Кб)</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Zilog Z80 совместимый на 3.58 МГц вплоть до 5.37 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 64КБ / Видеопамять 128КБ</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ПЗУ : 64КБ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Графический процессор : Yamaha V9958 (aka MSX-Видео)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Звуковой чип : Yamaha YM2149 (PSG)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Разрешение : 256×212 (19268 цветов)</text>
+		</text>
+		
+	</view>
+	
+</theme>

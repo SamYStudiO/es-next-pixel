@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+	<include>./../data/games/$random(bowling,buffers_evolution,chase_hq,crazy_taxi,daytona_usa_2_power_edition,f_zero,f_zero_x,mario_kart_8,metroid_zero_mission,okamoto_ayako_no_match_play_golf,pocket_tennis,sega_rally,super_mario_kart,virtua_striker_2,vs_excitebike)/music.xml</include>
+
+</theme>

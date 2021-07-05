@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Commodore</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1992</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : AmigaOS 2.05</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Motorola 68000 running @ 7.16 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 1 MB (expandable up to 6 MB officially) / VRAM 1024 KB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 512 KB Kickstart 2.05</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>GPU : Commodore's Enhanced Chip Set</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sound chip : 4 DMA-driven 8-bit channels</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Resolução : 320x200 to 1280x512 (4096 colours at lower display resolutions)</text>
+		</text>
+		
+	</view>
+	
+</theme>

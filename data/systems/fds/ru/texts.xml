@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1986 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 4.44 миллиона</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Super Mario Bros. 2</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : Ricoh 2A03 8 Bit процессор</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 32 Kб</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Дисковое пространство : 112 Kб</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Аудио/Видео процессор: Собственное железо от Famicom</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Порты : Также используются порты от Famicom</text>
+		</text>
+		
+	</view>
+	
+</theme>

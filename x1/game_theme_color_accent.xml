@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../data/games/$random(gradius_msx_nes_pc88_x1,space_harrier_x1_x68000)/color_accent.xml</include>
+
+</theme>

@@ -2,7 +2,7 @@
 
 	<formatVersion>4</formatVersion>	
 	<include>./common.xml</include>
-	<include>./../../$system/data/custom_vertical_wheel.xml</include>
+	<include>./../../$system/game_theme_vertical_wheel.xml</include>
 
 	<feature supported="carousel">
 
@@ -58,20 +58,19 @@
 		<image name="background" extra="true">
 			<origin>1 .5</origin>
 			<pos>1 .5</pos>
-			<path>./../../$system/background_wheel.jpg</path>
 		</image>
 		
 		<image name="logo">
-			<path>./../../$system/data/logo_right.svg</path>
+			<path>./../systems/$system/logo_right.svg</path>
 		</image> 
 		<image name="logo" region="eu">
-			<path>./../../$system/data/eu/logo_right.svg</path>
+			<path>./../systems/$system/eu/logo_right.svg</path>
 		</image> 
 		<image name="logo" region="us">
-			<path>./../../$system/data/us/logo_right.svg</path>
+			<path>./../systems/$system/us/logo_right.svg</path>
 		</image> 
 		<image name="logo" region="jp">
-			<path>./../../$system/data/jp/logo_right.svg</path>
+			<path>./../systems/$system/jp/logo_right.svg</path>
 		</image>
 
 		<image name="console" extra="true">

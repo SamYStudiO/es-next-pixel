@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>EasyRPG - это проект сообщества по созданию бесплатного инструмента </text>
+		</text>
+		<text name="info2" extra="true">
+			<text>для создания ролевых игр с открытым исходным</text>
+		</text>
+		<text name="info3" extra="true">
+			<text> кодом, совместимого с играми RPG Maker 2000/2003.</text>
+		</text>
+		
+	</view>
+	
+</theme>

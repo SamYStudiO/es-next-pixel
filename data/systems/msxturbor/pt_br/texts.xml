@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Varios</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1990</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : MSX BASIC V4.0 (16 kB)</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : R800 running @ 7.16 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 256KB to 512KB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 96KB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>GPU : Texas Instruments TMS9918 family</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sound chip : Yamaha YM2149 (PSG)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Resolução : 256×192 (16 colours)</text>
+		</text>
+		
+	</view>
+	
+</theme>

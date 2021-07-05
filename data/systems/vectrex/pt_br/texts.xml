@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : General Consumer Electronics</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1982 (US) 1983 (EU, JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU : Motorola 68A09 @ 1.5 MHz</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>RAM : 1KB (two 4-bit 2114 chips)</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ROM :  8KB (one 8-bit 2363 chip)</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Media : Cartridge with 32KB ROM</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Som : General Instrument AY-3-8912</text>
+		</text>
+		
+	</view>
+	
+</theme>

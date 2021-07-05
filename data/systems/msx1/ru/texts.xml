@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Various</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1983</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : MSX BASIC V1.0 (16 Кб)</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Zilog Z80A запущенный на 3.58 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 8КБ to 128КБ / Видеопамять 16КБ</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ПЗУ : 32КБ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Графический процессор : Texas Instruments TMS9918 family</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Звуковой чип : General Instrument AY-3-8910 (PSG)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Разрешение : 256×192 (16 цветов)</text>
+		</text>
+		
+	</view>
+	
+</theme>

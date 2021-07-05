@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Sega</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1991 (JP) 1992 (US) 1993 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 30 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Sewer Shark</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 16-бит Motorola 68000 на 12.5 МГц + Megadrive CPUs</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 512Кб / Видеопамять : 256Кб / звуковая память : 16Кб</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Видео : Custom ASIC</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 320×224 пикселей, 64 цветов (512-цветовая палитра)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук : Ricoh RF5C164 + Megadrive Звуковые чипы </text>
+		</text>		
+		<text name="info10" extra="true">
+			<text>Медиа : 500МБ CD-ROM диски</text>
+		</text>
+		
+	</view>
+	
+</theme>

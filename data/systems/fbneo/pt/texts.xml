@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>FB Alpha ou FBA como é mais conhecido é um emulador de jogos de arcade,</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>isto é, pega o código do programa, dados gráficos, ... de um jogo de arcade original </text>
+		</text>
+		<text name="info3" extra="true">
+			<text>e vai emular o hardware para fazer funcionar um jogo na sua forma original.</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>No que diz respeito ao jogo, ele está rodando em seu gabinete original.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text> FBA ié um projeto open-source e é programado pelo um grupo conhecido</text>
+		</text>
+		<text name="info6" extra="true">
+			<text> pela the FBA team. Ao longo dos anos, ista conteudo por Jan_Klaassen,</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>KEV, LoopMaster, Mike Haggar, Hyper Yagami, Ayeye.</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>FBA é baseado no original FinalBurn pelo Dave.</text>
+		</text>
+		
+	</view>
+	
+</theme>

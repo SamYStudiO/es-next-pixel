@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+	<include>./../_common/gradius/horizontal.xml</include>
+
+</theme>

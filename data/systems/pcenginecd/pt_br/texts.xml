@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : NEC</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1987 (JP) 1989 (US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 10 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : HuC6280 8-bit 7,16 Mhz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 8 Kbyte</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Picture Processor Unit : 8-bit</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video RAM : 64 Kbyte</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Media : HU-Card, SHU-Card, CD-ROM, Super-CD-ROM</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Computador : Magnavox/Philips</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1978 (US, EU) 1982 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 2 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Intel 8048 @ 1.79 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 64 bytes</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Audio/Video RAM : 128 bytes</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>ROM : 1024 bytes</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolução : 160×200 pixels with 12 colors</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Ecrã : 16-color fixed palette; sprites may only use 8 of these colors</text>
+		</text>
+		
+	</view>
+	
+</theme>

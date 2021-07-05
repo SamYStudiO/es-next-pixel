@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../data/games/$random(doshin_the_giant,doshin_the_giant,f_zero_x,f_zero_x_a0)/horizontal_legacy.xml</include>
+
+</theme>

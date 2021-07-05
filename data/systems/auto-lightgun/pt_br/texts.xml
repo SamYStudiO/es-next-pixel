@@ -1,0 +1,26 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>System Lightgun</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Like Time Crisis, Duck Hunt, Lupin The Third</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>"Shoot'em all! No one must reach you!"</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Example of lightgun: NES Zapper, Light Phaser, Super Scope, Sega Menacer, Virtua Gun, G-Con ...</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Materials needed for the lightgun: Mayflash Dolphinbar, Wiimote</text>
+		</text>
+
+		
+	</view>
+	
+</theme>

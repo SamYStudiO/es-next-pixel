@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Find all your games in a single system.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Add all the roms you want and they'll show up here.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Enjoy!</text>
+		</text>
+		
+	</view>
+	
+</theme>

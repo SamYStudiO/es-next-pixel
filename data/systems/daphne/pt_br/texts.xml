@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Developers : Matt Ownby (Daphne) and Jeffrey Clark (Hypseus)</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Saida inicial : 1999</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Website : http://www.daphne-emu.com/</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>escrito em : C++</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Daphne é um programa que vos deixa jogar a varios versões</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>originais de varios jogos arcade com Discos.</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Hypseus é um fork de Daphne para ensaiar</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>performance (MPEG2 decoder, SDL2 support, ...).</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Os melhores jogos LaserDisc: Dragon's Lair, Space Ace, ...</text>
+		</text>
+		
+	</view>
+	
+</theme>

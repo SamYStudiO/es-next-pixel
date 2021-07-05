@@ -1,6 +1,7 @@
 <theme>
 
-	<formatVersion>4</formatVersion>	
+	<formatVersion>4</formatVersion>
+	<include>./../../$system/game_theme_gamelist.xml</include>	
 
 	<view name="basic, detailed">
 
@@ -8,25 +9,24 @@
 			<maxSize>2 1</maxSize>
 			<pos>1 0</pos>
 			<origin>1 0</origin>
-			<path>./../../$system/background_gamelist_right.jpg</path>
 			<zIndex>0</zIndex>
 		</image>
 
 		<image name="logo">
-			<path>./../../$system/data/logo_right.svg</path>
+			<path>./../systems/$system/logo_right.svg</path>
 			<pos>.985 .98</pos>
 			<maxSize>.4 1</maxSize>
 			<origin>1 1</origin>
 			<zIndex>5</zIndex>
 		</image> 
 		<image name="logo" region="eu">
-			<path>./../../$system/data/eu/logo_right.svg</path>
+			<path>./../systems/$system/eu/logo_right.svg</path>
 		</image> 
 		<image name="logo" region="us">
-			<path>./../../$system/data/us/logo_right.svg</path>
+			<path>./../systems/$system/us/logo_right.svg</path>
 		</image> 
 		<image name="logo" region="jp">
-			<path>./../../$system/data/jp/logo_right.svg</path>
+			<path>./../systems/$system/jp/logo_right.svg</path>
 		</image>
 
 		<image name="controller" extra="true">
@@ -69,7 +69,6 @@
 			<pos>.75 0</pos>
 			<origin>1 0</origin>
 			<maxSize>2 1</maxSize>
-			<path>./../../$system/background_gamelist_left.png</path>
 			<zIndex>30</zIndex>
 		</image>
 
@@ -141,8 +140,8 @@
 		</video>
 
 		<rating name="md_rating">
-			<filledPath>./../../$system/icon_filled.svg</filledPath>
-			<unfilledPath>./../../$system/icon_empty.svg</unfilledPath>
+			<filledPath>./../arts/icon_filled.svg</filledPath>
+			<unfilledPath>./../arts/icon_empty.svg</unfilledPath>
 		</rating>
 
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">

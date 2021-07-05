@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Commodore International</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1993 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : AmigaOS 3.1</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Motorola 68EC020 @ 14.32 MHz (NTSC), 14.18 MHz (PAL)</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 2 MB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 1 MB Kickstart w/ CD32 firmware, 1 KB EEPROM for game saves</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>GPU : Advanced Graphics Architecture</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sound chip : 4 × 8-bit PCM channels</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Resolução : 320x200 to 1280x400i (NTSC), 320x256 to 1280x512i (PAL)</text>
+		</text>
+		
+	</view>
+	
+</theme>

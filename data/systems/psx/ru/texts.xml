@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Sony Computer Entertainment</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1994 (JP) 1995 (US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 102.48 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Gran Turismo</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 32-бит R3000A RISC запущенный на 33.8688 МГц </text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 16 Mbits</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Блок обработки изображений : 32-бит</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Видеопамять : 8 Mbits</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук ОЗУ : 4 Mbits</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Графический процессор : GFX процессор</text>
+		</text>
+		
+	</view>
+	
+</theme>

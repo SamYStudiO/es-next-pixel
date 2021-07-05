@@ -18,7 +18,7 @@
 			<origin>.5 .5</origin>
 			<pos>.375 .35463</pos>
 			<zIndex>72</zIndex>
-			<path>./../../$system/data/next_pixel_mix_overlay.png</path>
+			<path>./../systems/$system/next_pixel_mix_overlay.png</path>
 		</image>
 
 	</view>

@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : SNK</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1999 (JP, US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 2 миллиона, включая монохромные версии</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPUs : Toshiba TLCS900H на 6.144 МГц, Z80 на 3.072 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 12K для 900H, 4K для Z80</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 64 Кб</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Блок обработки изображений : 16-бит</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 160x152 146 цветов (256×256 виртуальный экран)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Медиа : ПЗУ картридж 4 МБ максимум</text>
+		</text>
+		
+	</view>
+	
+</theme>

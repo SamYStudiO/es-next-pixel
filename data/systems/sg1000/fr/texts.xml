@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Constructeur : Sega</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie : 1983 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unités vendues : 2 millions</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Meilleur vente : Flicky</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 8-Bit Zilog Z80 @ 3.58 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 1 Ko / VRAM : 2 Ko </text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Vidéo : Texas Instruments TMS9918</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Résolution : 256×192 pixels, 16 couleurs (palette de 21 couleurs)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Puce audio : Texas Instruments SN76489 PSG</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Taille de cartouche 8 Ko - 48 Ko</text>
+		</text>
+		
+	</view>
+	
+</theme>

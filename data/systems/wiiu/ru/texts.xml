@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo, Foxconn, Mitsumi</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 2012 (US , EU, JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 13.56 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Mario Kart 8</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : Трёхядерный IBM PowerPC "Espresso" на 1.24 GHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Графический процессор : AMD Radeon-based "Latte" на 550 МГц</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>ОЗУ : 2 ГБ DDR3</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Звук : Выделенный 120 МГц звуковой процессор</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Разрешение : 480i, 480p, 720p, 1080i, 1080p</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Медиа : 25 ГБ Blu-ray дисковый привод</text>
+		</text>
+		
+	</view>
+
+</theme>

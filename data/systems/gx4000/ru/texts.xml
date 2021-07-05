@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Amstrad</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1990 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU : Zilog Z80A на 4 МГц</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>ОЗУ : 64 КБ</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Видеопамять : 16 КБ</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ПЗУ : 32 КБ</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Звук Chip : General Instrument AY-3-8912, 3 channel стерео</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Разрешение : 160x200 до 640x200, 16 спрайтов, 4096-цветная палитра - 32 одновременно</text>
+		</text>
+		
+	</view>
+
+</theme>

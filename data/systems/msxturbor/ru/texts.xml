@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Various</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1990</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : MSX BASIC V4.0 (16 Кб)</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : R800 запущенный на 7.16 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 256КБ to 512КБ</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ПЗУ : 96КБ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Графический процессор : Texas Instruments TMS9918 family</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Звуковой чип : Yamaha YM2149 (PSG)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Разрешение : 256×192 (16 цветов)</text>
+		</text>
+		
+	</view>
+	
+</theme>

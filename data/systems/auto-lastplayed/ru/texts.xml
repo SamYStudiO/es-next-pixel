@@ -1,0 +1,22 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Список недавно запущенных игр.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Стоит вам хоть разочек запустить игру,</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>и она тут же появится в этом списке.</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Мы следим за вами :)</text>
+		</text>
+		
+	</view>
+	
+</theme>

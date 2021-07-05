@@ -2,7 +2,7 @@
 
 	<formatVersion>4</formatVersion>	
 	<include>./common.xml</include>
-	<include>./../../$system/data/custom_horizontal_legacy.xml</include>
+	<include>./../../$system/game_theme_horizontal_legacy.xml</include>
 
 	<feature supported="carousel">
 
@@ -33,10 +33,6 @@
 	</feature>
 
 	<view name="system">
-
-		<image name="background" extra="true">
-			<path>./../../$system/background_legacy.jpg</path>
-		</image>
 
 		<image name="console" extra="true">
 			<pos>.98 .82</pos>

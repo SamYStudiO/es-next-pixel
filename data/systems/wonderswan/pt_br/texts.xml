@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Bandaï</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1999 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unitdades vendidas : 3.5 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : 16Bits NEC V20</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 512k video</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Resolução : 224 x 144 pixels</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Som : 4 PCM channels, 32 samples 4Bit for each channel</text>
+		</text>
+		
+	</view>
+	
+</theme>
