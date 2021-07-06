@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Epyx / Atari</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1989 (US) 1990 (JP, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 1 миллион</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : 8-битный с 16-битным адресным пространством</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Co-Processors : Mikey и Suzy 2 x 16-бит</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 64K 120нс DRAM</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>ПЗУ : 512 байт</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 160 x 102 пикселей</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук :  4 каналов, 8-бит DAC</text>
+		</text>
+		
+	</view>
+	
+</theme>

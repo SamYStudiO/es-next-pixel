@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : SNK Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1994 (JP, EU) 1996 (US)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 570000</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : 16-бит Motorolla 68000 на 12МГц, 8-бит Zilog Z80 на 4МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 7 МБ ОЗУ</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>SRAM : 2 КБ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Видеопамять : 512 КБ</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Звуковой чип : Yamaha YM2610 with 13 каналов</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Дисплей : 304x224 разрешение, 4096 цветов из 65536</text>
+		</text>
+		
+	</view>
+	
+</theme>

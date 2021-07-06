@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : SNK Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1994 (JP, EU) 1996 (US)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 570000</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : 16-bit Motorolla 68000 @ 12MHz, 8-bit Zilog Z80 @ 4MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 7 MB RAM</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>SRAM : 2 KB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video RAM : 512 KB</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Som chip : Yamaha YM2610 with 13 channels</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Ecrã : 304x224 resolution, 4096 colors out of 65536</text>
+		</text>
+		
+	</view>
+	
+</theme>

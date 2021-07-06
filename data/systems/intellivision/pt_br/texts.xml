@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>construtor : Mattel Electronics</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Anno de saida : 1979 (US) 1981-1982 (EU) 1982 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 3+ million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Melhor venda : Las Vegas Poker & Blackjack</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : GI CP1610 @ 894.886 kHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 1kB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video : General Instrument AY-3-8900-1</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolução : 159x96, 16 colors</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Som : General Instrument AY-3-8914</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Tamanho carta : 8kB - 32kB</text>
+		</text>
+		
+	</view>
+	
+</theme>

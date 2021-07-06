@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Constructeur : Epoch</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie : 1984 (JP, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU : 8-bit NEC PD7801G</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>RAM : 128 Ko / VRAM : 4 Ko </text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Video : EPOCH TV-1</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Résolution : 309×246 pixels, 16 couleurs, 128 sprites sumultanés</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Puce audio : PD1771C @ 6 MHz</text>
+		</text>
+		
+	</view>
+	
+</theme>

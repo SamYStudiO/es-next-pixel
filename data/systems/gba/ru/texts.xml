@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 2001 (JP, US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 82 миллиона</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Pokémon Ruby</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 16 МГц 32bit RISC-CPU + 8бит CISC-CPU</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 32КБ WRAM + 256КБ WRAM</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Экран : Светоотражающий цветной ЖК-экран TFT</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 240 x 160 пикселей</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Видеопамять : 256КБ</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Дисплей : 32 000 цветов</text>
+		</text>
+		
+	</view>
+	
+</theme>

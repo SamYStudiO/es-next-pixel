@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : General Consumer Electronics</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1982 (US) 1983 (EU, JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU : Motorola 68A09 на 1.5 МГц</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>ОЗУ : 1КБ (два 4-бит 2114 чипа)</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ПЗУ :  8КБ (один 8-бит 2363 чип)</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Медиа : Картридж с 32КБ ПЗУ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Звук : General Instrument AY-3-8912</text>
+		</text>
+		
+	</view>
+	
+</theme>

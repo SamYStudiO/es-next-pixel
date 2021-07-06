@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Atari, Inc.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1982 (US)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Vandas : 1 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : MOS Technology 6502C 6502C @ 1.79 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 16kB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 2KB on-board BIOS; 32 KB window for standard game cartridges</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Som : 4-channel POKEY chip</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolução : 320x192 pixels with 256 colors</text>
+		</text>
+		
+	</view>
+	
+</theme>

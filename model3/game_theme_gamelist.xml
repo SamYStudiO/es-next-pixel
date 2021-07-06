@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../data/games/$random(daytona_usa_2_power_edition,virtua_striker_2)/gamelist.xml</include>
+
+</theme>

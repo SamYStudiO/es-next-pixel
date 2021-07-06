@@ -1,0 +1,41 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Sony Computer Entertainment</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 2004 (JP) 2005 (US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 80.82 миллиона</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : GTA Liberty City Stories</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 32-бит MIPS RS4000 запущенный на 333 МГц </text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 32 Mbits</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>DRAM : 4 Mbits</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 480x272 пикселей</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Размер : 170x74x23 мм</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Вес : 260 г</text>
+		</text>
+		
+	</view>
+	
+</theme>
+

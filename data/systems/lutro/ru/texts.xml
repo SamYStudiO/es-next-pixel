@@ -1,0 +1,16 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Lutro - это экспериментальная игровая среда </text>
+		</text>
+		<text name="info2" extra="true">
+			<text>на языке lua для libretro, построенная на основе LÖVE API.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 2001 (JP, US) 2002 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 21.74 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Super Smash Bros. Melee</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 128-бит IBM Gekko PowerPC на 485 МГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 43 МБ общая неунифицированная ОЗУ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Видео : 162 МГц "Flipper" LSI</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 640×480 480i или 480p - 60 Hz</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук : 16-бит Dolby Pro Logic II</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Медиа : 1.5 ГБ miniDVD</text>
+		</text>
+		
+	</view>
+	
+</theme>

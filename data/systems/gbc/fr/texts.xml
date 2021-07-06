@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Constructeur : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie : 1998 (JP, US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unités vendues : 118.69 millions</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Meilleur vente : Pokemon Or et Argent</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 8-bit Zilog Z80 @ 8.33 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 32 Ko / VRAM : 26 Ko</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video : PPU (intégré au CPU)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Résolution : 160 x 144 pixels, 56 couleurs (palette de 32768 couleurs)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Audio : son 4 canaux stéréo</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Taille de cartouche 256 Ko - 8 Mo</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Coleco</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1982 (US) 1983 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 2+ миллиона</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Donkey Kong</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : Zilog Z80 на 3.58 МГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 1Кб / Видеопамять : 16Кб</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Видео : Texas Instruments TMS9928A</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 256x192, 16 цветов</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук : Texas Instruments SN76489A</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Размер картриджа: 8Кб - 32Кб</text>
+		</text>
+		
+	</view>
+	
+</theme>

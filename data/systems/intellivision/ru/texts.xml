@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Mattel Electronics</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1979 (US) 1981-1982 (EU) 1982 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 3+ миллиона</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Las Vegas Poker & Blackjack</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : GI CP1610 на 894.886 кГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 1Кб</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Видео : General Instrument AY-3-8900-1</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 159x96, 16 цветов</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук : General Instrument AY-3-8914</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Размер картриджа: 8Кб - 32Кб</text>
+		</text>
+		
+	</view>
+	
+</theme>

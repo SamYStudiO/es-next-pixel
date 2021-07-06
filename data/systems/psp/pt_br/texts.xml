@@ -1,0 +1,41 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Mconstrutor : Sony Computer Entertainment</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>ano de saida : 2004 (JP) 2005 (US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 80.82 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Melhor venda : GTA Liberty City Stories</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 32-bit MIPS RS4000 running at 333 Mhz </text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 32 Mbits</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>DRAM : 4 Mbits</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolução : 480x272 px</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Size : 170x74x23 mm</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Peso : 260 g</text>
+		</text>
+		
+	</view>
+	
+</theme>
+

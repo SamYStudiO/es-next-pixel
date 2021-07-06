@@ -1,0 +1,37 @@
+﻿<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Panasonic, Sanyo, GoldStar</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1993 (US) 1994 (JP, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : Multitasking 32-бит ОС</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : 32-бит RISC (ARM60) запущенный на 12.5 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 2 МБ / Видеопамять : 1 МБ</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ПЗУ : 1 МБ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Графический процессор : 2 разогнанных видео сопроцессора на 25МГц</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Звуковой чип : 16-бит Стерео Звук с 44.1 КГц сэмплированием</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Разрешение : 640x480 (16.7 миллионов цветов)</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Легкий, бесплатный игровой движок с открытым исходным кодом для Action-RPG.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Двумерный игровой движок, написанный на C ++, и исполняющий игры, сделанные на Lua.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Специально разработан для классических 16-битных ролевых игр.</text>
+		</text>
+		
+	</view>
+	
+</theme>

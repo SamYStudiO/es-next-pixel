@@ -2,6 +2,5 @@
 
 	<formatVersion>4</formatVersion>	
 	<include>./horizontal_common.xml</include>
-	<include>./../../$system/data/custom_horizontal.xml</include>
 
 </theme>

@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Тут находятся все игры на вашей системе.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Все ромы, которые добавлены в память приставки вы найдёте здесь.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Наслаждайтесь!</text>
+		</text>
+		
+	</view>
+	
+</theme>

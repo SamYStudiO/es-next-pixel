@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Palm, Inc.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 2002</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : Palm ОС версия 4.1</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Motorola DragonBall VZ MC68VZ328 на 33 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 16 МБ ОЗУ</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ПЗУ : 4 МБ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Дисплей : 160×160 пикселей (65,000+ цветов)</text>
+		</text>
+		
+	</view>
+	
+</theme>

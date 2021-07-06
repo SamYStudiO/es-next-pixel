@@ -1,0 +1,35 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Développeur : Lexaloffle Games</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Sortie initiale : 2015</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Site internet : www.pico-8.com</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>PICO-8 est une machine virtuelle pour creer, partager et jouer à de petit jeux et d'autre programmes.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Fonctionalités: Editeur de code Lua, Outil de création de sprite et carte, et un éditeur d'effet sonore et de musique.</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Affichage : 128x128 pixels, palette de 16 couleurs</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Sprites : 256 8x8 foreground sprites, 128x32 cels map</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Audio : puce 4 cannaux blerps</text>
+		</text>
+
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Constructeur: Watara</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie: 1992</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU: 8-bit 65SC02 @ 4 MHz</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>RAM: 8 Ko / VRAM : 8 Ko</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Affichage: 160x160 pixels, 4 niveaux de gris</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Audio: 2 Tonal and 1 cannal Noise plus sortie audio DMA stéréo</text>
+		</text>
+		
+	</view>
+	
+</theme>

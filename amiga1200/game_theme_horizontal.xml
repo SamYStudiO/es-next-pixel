@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../data/games/$random(alien_breed_3d,lemmings_amiga600_amiga1200,sim_city_2000,simon_the_sorcerer,super_stardust,worms)/horizontal.xml</include>
+
+</theme>

@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Programadore : Sony</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 2000 (JP, US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 158 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Melhor venda : Grand Theft Auto: San Andreas</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : R5900-based "Emotion Engine" @ 294-299 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>GPU : "Graphics Synthesizer" @ 149 MHz</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>RAM : 32 MB PC800 32-bit dual-channel RDRAM @ 400 MHz</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Video RAM : 4 MB</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Resolução : 256x224 to 1920x1080</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Media : DVD, CD</text>
+		</text>
+		
+	</view>
+	
+</theme>

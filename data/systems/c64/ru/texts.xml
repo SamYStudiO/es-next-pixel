@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Commodore</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1982</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : Commodore KERNAL / Commodore BASIC 2.0 GEОС</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : MОС Technology 6510/8500 на 1.023 МГц (NTSC version)</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 64КБ ОЗУ</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ПЗУ : 20КБ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Графический процессор : MОС Technology VIC-II</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Звуковой чип : MОС Technology 6581 SID</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Разрешение : 320×200 (16 цветов)</text>
+		</text>
+		
+	</view>
+	
+</theme>

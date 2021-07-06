@@ -1,0 +1,28 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Amstrad</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1984</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : AMSDOS with Locomotive BASIC</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Zilog Z80A @ 4 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 64 KB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Sound Chip : General Instrument AY-3-8910</text>
+		</text>
+		
+	</view>
+		
+</theme>
