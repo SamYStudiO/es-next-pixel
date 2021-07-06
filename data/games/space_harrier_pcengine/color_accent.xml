@@ -1,0 +1,6 @@
+﻿<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../_common/space_harrier/color_accent.xml</include>
+	
+</theme>

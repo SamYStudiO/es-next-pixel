@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Разработчик : Tangerine Computer Systems</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Производитель : Tangerine Computer Systems</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : Tangerine/Microsoft Extended Basic v1.0</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Год Выпуска : 1982</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Продано устройств : 210000</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>CPU : MОС 6502A на 1 МГц</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Память : 16 КБ / 48 КБ</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Накопитель : Кассетный рекордер, 300 и 2400 бод</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Графика : 40×28 текстовых символов/ 240×200 пикселей, 8 цветов</text>
+		</text>
+		
+	</view>
+	
+</theme>

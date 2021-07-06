@@ -1,0 +1,22 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Faça captura de écrã de vossos jogos e melhores scores,</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>E mostre a vossos amigos.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Quem serà o melhor jogador ...</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Deus abençoe Recalbox !</text>
+		</text>
+		
+	</view>
+	
+</theme>

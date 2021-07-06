@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>MConstrutor : Nintendo, Foxconn, Mitsumi</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 2012 (US , EU, JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 13.56 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Melhor venda : Mario Kart 8</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : Tri-Core IBM PowerPC "Espresso" @ 1.24 GHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>GPU : AMD Radeon-based "Latte" @ 550 MHz</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>RAM : 2 GB DDR3</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Audio : Dedicated 120 MHz audio processor</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Resolução : 480i, 480p, 720p, 1080i, 1080p</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Media : 25 GB Blu-ray based disc</text>
+		</text>
+		
+	</view>
+
+</theme>

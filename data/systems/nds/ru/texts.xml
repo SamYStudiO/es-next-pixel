@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 2004 (US, JP) 2005 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 153.99 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : New Super Mario Bros.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 66 МГц ARM9 + 33МГц ARM7 </text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 4МБ / Видеопамять : 656КБ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Экран : Светоотражающий цветной ЖК-экран TFT</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 256 x 192 пикселей</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Дисплей : 260 000 цветов</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Звук : Стереодинамики с виртуальным объемным звуком, наушники</text>
+		</text>
+		
+	</view>
+	
+</theme>

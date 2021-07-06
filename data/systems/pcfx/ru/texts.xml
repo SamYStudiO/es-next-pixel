@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : NEC Home Electronics</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1994 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 400000</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : 32-бит NEC V810 RISC на 21.5 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 2 МБ (32 КБ резервной)</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Видеопамять : 1.25 МБ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Звук : 16-бит стерео с ADPCM</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение: 640x480 пикселей</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Медиа : CD-ROM</text>
+		</text>
+		
+	</view>
+
+</theme>

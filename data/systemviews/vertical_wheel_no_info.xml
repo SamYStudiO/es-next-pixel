@@ -3,6 +3,5 @@
 	<formatVersion>4</formatVersion>
 	<include>./vertical_wheel_common.xml</include>	
 	<include>./common_info.xml</include>
-	<include>./../../$system/data/custom_vertical_wheel.xml</include>
 
 </theme>

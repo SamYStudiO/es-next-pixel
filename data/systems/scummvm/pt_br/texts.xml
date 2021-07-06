@@ -1,0 +1,43 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Autor original : Ludvig Strigeus</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 2001</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Scummvm é uma coleção de recriações de mecanismos de jogos.</text>
+		</text>
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Originalmente projetado para jogar jogos de aventura LucasArts</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>que usam o sistema SCUMMM ,</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>também suporta uma variedade de jogos que não são da SCUMM por empresas</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>como Revolution Software e Adventure Soft.</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>foi iniciado por Ludvig Strigeus.</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Lançado sob os termos da GNU General Public License,</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>ScummVM é um software livre.</text>
+		</text>
+		
+	</view>
+	
+</theme>

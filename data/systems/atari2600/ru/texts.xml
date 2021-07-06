@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Atari Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1977 (US) 1978-1981 (EU) 1983 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 30 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Pac-Man</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 8-бит MОС 6507 на 1.19 МГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 128 байт</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Аудио/Видео процессор: TIA</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 160 x 192 пикселей, 4 цвета на линию (128 цветовая палитра)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук : 2 каналов по 1-бит монофонический звук с 4-битным регулятором громкости</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Размер картриджа: 2Кб - 32Кб </text>
+		</text>
+		
+	</view>
+	
+</theme>

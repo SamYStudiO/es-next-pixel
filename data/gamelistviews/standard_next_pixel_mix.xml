@@ -5,7 +5,7 @@
 	<include>./common_info.xml</include>
 	<include>./common_description.xml</include>
 	<include>./common_next_pixel_mix.xml</include>
-	<include>./../../$system/data/custom_standard_next_pixel_mix.xml</include>
+	<include>./../systems/$system/custom_standard_next_pixel_mix.xml</include>
 
 
 	<view name="detailed">

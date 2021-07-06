@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Sega</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1985 (JP) 1986 (US) 1987 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 13 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Melhor venda : Alex Kidd in Miracle World</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 8-Bit Zilog Z80 @ 3.58 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 8kB / VRAM : 16kB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video : Sega VDP (custom Texas Instruments TMS9918)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolução : 256 × 192 pixels, 32 colors (64 colors palette)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Som : TI SN76489 PSG / add-on module YM2413 FM</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Tamanho carta : 32kB - 1MB</text>
+		</text>
+		
+	</view>
+	
+</theme>

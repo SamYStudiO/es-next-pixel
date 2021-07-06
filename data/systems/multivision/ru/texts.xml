@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Tsukuda Original</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1983 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU : Zilog Z80 на 3.58 МГц</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>ОЗУ : 1КБ / Видеопамять : 16КБ </text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Видео : Texas Instruments TMS9918</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Разрешение : 256×192 пикселей, 16 цветов (21 цветовая палитра)</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Звуковой чип : Texas Instruments SN76489 PSG</text>
+		</text>
+		
+	</view>
+	
+</theme>

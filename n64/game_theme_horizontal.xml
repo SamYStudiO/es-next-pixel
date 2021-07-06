@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../data/games/$random(f_zero_x,f_zero_x_a0,goldeneye_007,goldeneye_007,super_mario_64,super_mario_64,turok,turok)/horizontal.xml</include>
+
+</theme>

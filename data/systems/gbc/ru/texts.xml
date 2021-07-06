@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1998 (JP, US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 118.69 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Pokemon Gold и Silver</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 8-бит Zilog Z80 на 8.33 МГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 32Кб / Видеопамять : 26Кб</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Видео : PPU (встроенная в CPU)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 160 x 144 пикселей, 56 цветов (32768 цветовая палитра)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук : 4х канальный стерео звук</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Размер картриджа: 256Кб - 8МБ</text>
+		</text>
+		
+	</view>
+	
+</theme>

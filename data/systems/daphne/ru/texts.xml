@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Разработчики : Matt Ownby (Daphne) и Jeffrey Clark (Hypseus)</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Первый выпуск : 1999</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Сайт : http://www.daphne-emu.com/</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Написан на : C++</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Daphne - это программа, которая позволяет играть в оригинальные </text>
+		</text>
+		<text name="info6" extra="true">
+			<text>версии многих аркадных игр LaserDisc. Hypseus - это форк Daphne </text>
+		</text>
+		<text name="info7" extra="true">
+			<text>для повышения производительности </text>
+		</text>
+		<text name="info8" extra="true">
+			<text>(декодер MPEG2, поддержка SDL2, ...). </text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Лучшие игры для LaserDisc: Dragon's Lair, Space Ace, ...</text>
+		</text>
+		
+	</view>
+	
+</theme>

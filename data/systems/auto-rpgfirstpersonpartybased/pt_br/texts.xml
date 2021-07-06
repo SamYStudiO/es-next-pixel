@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Find all your rpg first person party based games</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>in a single system. Add all the roms you want, scrape</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>them and they'll show up here.</text>
+		</text>
+		
+	</view>
+	
+</theme>

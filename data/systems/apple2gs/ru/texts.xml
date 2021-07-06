@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Apple Computer, Inc.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1986</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : Apple ProDОС, Apple GS/ОС, GNO/ME</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Western Design Center 65C816 16-бит на 2.8 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 256 Кб или 1 МБ (расширяемый до 8 МБ)</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ПЗУ : 128 КБ расширяемая до 1 МБ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Звук : Ensoniq ES5503 DOC 8-битный 32-канальный звуковой чип, стерео</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Дисплей : VGC 12-бит на цвет, палитра 4096 цветов, 320×200, 640×200</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor: IBM</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1981</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>O IBM Personal Computer, comumente conhecido como IBM PC, é aversão</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>original e progenitor da plataforma de hardware compativel com PC IBM.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>É o modelo IBM número 5150 e foi introduzido em 12 de agosto de 1981.</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Foi criado por uma equipe de engenheiros e designers sob a direção</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>de Don Estridge da Divisão IBM Entry Systems em Boca Raton, Flórida.</text>
+		</text>
+		
+	</view>
+	
+</theme>

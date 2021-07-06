@@ -1,0 +1,37 @@
+﻿<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<!-- color 473c36 -->
+
+	<view name="system">
+	
+		<image name="background" extra="true" />
+	
+		<image name="system_carousel_background" extra="true">
+			<color>473c36</color>
+		</image>
+		
+		<image name="system_carousel_border" extra="true">
+			<color>473c36</color>
+		</image>
+		
+	</view>
+	
+	<view name="basic, detailed">
+
+		<image name="gamelist_background" extra="true">
+			<color>473c36</color>
+		</image>
+	
+		<textlist name="gamelist">
+			<selectorColor>473c36</selectorColor>
+		</textlist>
+		
+		<image name="gamelist_border" extra="true">
+			<color>473c36</color>
+		</image>
+	 
+	</view>
+	
+</theme>

@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../data/games/$random(bubble_bobble,castle_of_illusion,crash_bandicoot_2,donkey_kong,donkey_kong_country,donkey_kong_ii,donkey_kong_junior,doom,duck_tales,earthworm_jim,final_fantasy_vii,f_zero,galaga,gex,goldeneye_007,gradius,last_of_us,lemmings,missile_command,myst,pac_man,pitfall_a0,rayman,rayman_legends,secret_of_mana,sega_rally,sim_city_2000,sonic_2,streets_of_rage_2,street_fighter,super_mario_64,super_mario_bros_3,super_mario_kart,super_mario_land,teenage_mutant_ninja_turtles,tetris,the_legend_of_zelda,the_legend_of_zelda_breath_of_the_wild,the_legend_of_zelda_links_awakening,the_legend_of_zelda_link_to_the_past,turok,uncharted_3,worms)/color_accent.xml</include>
+
+</theme>

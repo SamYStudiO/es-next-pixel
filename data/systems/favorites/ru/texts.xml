@@ -1,0 +1,22 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>В этом списке находятся все ваши любимые игры . </text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Каждый раз, когда вы отмечаете игру как</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>избранную, она появляется здесь. </text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Играйте с удовольствием!</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 2001 (JP, US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Verkaufte Einheiten : 82 Millionen</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Meistverkauftes Spiel : Pokémon Rubin-Edition</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 16 MHz 32-bit RISC-CPU + 8-bit CISC-CPU</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 32 kB I-RAM, 96 kB VRAM, 256 kB eRAM</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Bildschirm : TFT-Bildschirm mit 32.768 Farben</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Auflösung : 240x160 Pixel</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Video RAM : 256 kB</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Programador : Belogic Software</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 2008</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU : Amtel ATmega644 microcontroller @ 28.6 Mhz</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>RAM : 4 K</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Memoria do programa: 64 K</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Som : 5 channels wavetable synthesis , 8-bit mono, mixed at ~15Khz and output via PWM</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Resolução : Various video modes supporting up to 360x224 pixels in tiles-only mode</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Cores : 256 simultaneous colors arranged in a 3:3:2 color space</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Media : SD Memory Card</text>
+		</text>
+		
+	</view>
+
+</theme>

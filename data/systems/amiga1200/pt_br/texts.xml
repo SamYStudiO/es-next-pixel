@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Commodore</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1992</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : AmigaOS 3.0/3.1</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Motorola 68EC020 running @ 14.32 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 2 MB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 512 KB Kickstart 3.0-3.1 ROM</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>GPU : Advanced Graphics Architecture</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sound chip : 4× 8-bit PCM channels</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Resolução : 320x200 to 1504x484 (16.8 million colours)</text>
+		</text>
+		
+	</view>
+	
+</theme>

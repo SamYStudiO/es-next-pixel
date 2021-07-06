@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель :  Dragon Data, Ltd. / Tano Corp.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1982 (EU) 1983 (US)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : Microsoft Extended BASIC</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Motorola 6809E на 0.89 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 32/64 КБ</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Разрешение : макс 256 x 192, 8 цветов</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Звук : 1 голос, 5 октав с базовым / 4 голоса, 7 октав с машинным кодом</text>
+		</text>
+		
+	</view>
+	
+</theme>

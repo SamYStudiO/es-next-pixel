@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Разработчик / Производитель : Nintendo / Foxconn</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 2006 (US, JP, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 101.63 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Wii Sports</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : IBM PowerPC "Broadway" на 729 МГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 88 МБ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Видео : ATI "Hollywood" на 243 МГц </text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 480i/p (PAL/NTSC) или 576i (PAL/SECAM), 4:3 и 16:9</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук : Стерео - Dolby Pro Logic II-capable</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Медиа : 4.7/8.54 ГБ DVD</text>
+		</text>
+		
+	</view>
+	
+</theme>

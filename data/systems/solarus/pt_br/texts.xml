@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Um mecanismo de jogo leve, gratuito e de código aberto para RPGs de ação.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Um mecanismo de jogo 2D escrito em C ++ e executando jogos feitos em Lua.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Desenvolvido especificamente com RPGs de ação clássicos de 16 bits em mente.</text>
+		</text>
+		
+	</view>
+	
+</theme>

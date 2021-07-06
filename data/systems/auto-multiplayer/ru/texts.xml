@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Тут находятся все игры на несколько человек.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Удобненько и в одном списке, чтобы долго не искать.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Отличное развлечение для тусовки с друзьями!</text>
+		</text>
+		
+	</view>
+	
+</theme>

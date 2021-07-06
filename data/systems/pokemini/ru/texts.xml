@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 2001 (US, JP) 2002 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Самая продаваемая игра : Pokémon Party mini</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : S1C88 на 4 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 4 Кб (выделенной c видео подсистемой)</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Дисплей : 96 x 64 пикселей монохромный LCD</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Звук : Одноканальный звук ШИМ с тремя уровнями громкости.</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Размер картриджа: 512 Кб</text>
+		</text>
+		
+	</view>
+	
+</theme>

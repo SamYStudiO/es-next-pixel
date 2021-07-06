@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Sega</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1998 (JP) 1999 (US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 9.13 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Melhor venda : Sonic Adventure</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : Hitachi SH-4 32-bit RISC clocked @ 200 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 16MB / VRAM : 8MB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video : 100 MHz PowerVR2 (integrated with the system's ASIC)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolução : 640×480 pixels</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Som : Yamaha AICA[139] sound processor @ 67 MHz</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>VMU size : 128kB</text>
+		</text>
+		
+	</view>
+	
+</theme>

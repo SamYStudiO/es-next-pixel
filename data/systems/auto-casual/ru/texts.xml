@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Find all your casual games in a single system.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Add all the roms you want, scrape them and</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>they'll show up here.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : NEC Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1981</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : N88-BASIC, N-BASIC (PC8001 MODE)</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : µPD780c-1 (Z80A-совместимый) на 4 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 64 КБ (вплоть до 576 КБ) / Видеопамять : 48 КБ</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Звук : 3 FM каналов + 3 SSG + 6 ритмов + 1 ADPCM</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Find all your action first person shooter games in</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>a single system. Add all the roms you want, scrape them</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>and they'll show up here.</text>
+		</text>
+		
+	</view>
+	
+</theme>

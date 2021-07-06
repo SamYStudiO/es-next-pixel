@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Разработчик : Belogic Software</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 2008</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU : Amtel ATmega644 микроконтроллер на 28.6 МГц</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>ОЗУ : 4K</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Программная память : 64K</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Звук : 5 канальный синтезатор , 8-бит моно, микшированный на ~15Khz выходным ШИМ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Разрешение : Различные видео режимы поддерживают вплоть до 360x224 пикселей дюймов плиточного режима</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Цвета : 256 одновременных цветов</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Медиа : SD карта памяти</text>
+		</text>
+		
+	</view>
+
+</theme>

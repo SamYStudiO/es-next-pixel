@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1980</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 43.4 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Donkey Kong</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>В игре Game и Watch, созданной гейм-дизайнером Гунпэем Ёкоем, </text>			
+		</text>
+		<text name="info6" extra="true">
+			<text>есть игра с часами, будильником или и то и другое. </text>			
+		</text>
+		<text name="info7" extra="true">
+			<text>Это был самый ранний продукт Nintendo, добившийся больших успехов в игре. </text>			
+		</text>
+		<text name="info8" extra="true">
+			<text>Было выпущено 59 игр GW, и одна доступна только в качестве приза конкурса. </text>			
+		</text>
+		<text name="info9" extra="true">
+			<text>Мистер GW - персонаж, которого часто считают талисманом сериала GW.</text>			
+		</text>
+		
+	</view>
+	
+</theme>

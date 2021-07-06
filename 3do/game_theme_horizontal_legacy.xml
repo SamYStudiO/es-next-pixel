@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../data/games/$random(gex,samurai_shodown)/horizontal_legacy.xml</include>
+
+</theme>

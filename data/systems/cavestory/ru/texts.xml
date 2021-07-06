@@ -1,0 +1,43 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Дизайнер: Дайсуке Амая</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Разработчик: Studio Pixel</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Тип: Бесплатная приключенческая платформа</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Происхождение: Япония</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Английский перевод: Aeon Genesis Translations</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Год первого выпуска: 2004 г.</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Игра сосредоточена на главном герое, страдающем амнезией, который </text>
+		</text>
+		<text name="info8" extra="true">
+			<text>просыпается в пещере. Благодаря своим исследованиям он обнаруживает заговор </text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Доктора, страдающего манией величия, который намеревается заставить жителей </text>
+		</text>
+		<text name="info10" extra="true">
+			<text>пещеры сражаться за него в его стремлении завоевать мир. Главный герой </text>
+		</text>
+		<text name="info11" extra="true">
+			<text>оказывается в положении спасителя или пытается победить Доктора.</text>
+		</text>
+		
+	</view>
+	
+</theme>

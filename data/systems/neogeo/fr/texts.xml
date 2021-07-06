@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Constructeur : SNK Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie : 1990 (JP, EU) 1991 (US)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unités vendues : 1 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Meilleur vente : The King of Fighters '95</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : Motorola 68000 @ 12MHz, Zilog Z80A @ 4MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 64 Ko RAM</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Ram Audio : 2 Ko</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>RAM Vidéo : 84 Ko</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Affichage : Résolution 320×224, 4096 couleurs sur 65536</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Puce audio : Yamaha YM2610</text>
+		</text>
+		
+	</view>
+	
+</theme>

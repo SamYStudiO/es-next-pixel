@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Atari, Inc.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1979</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : Atari ОС</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : MОС Technology 6502B на 1.8 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 8Кб базовая, 48 Кб макс.</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ПЗУ : 8КБ (Atari Basic)</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Звук : 4 осцилятора с шумом смешения</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Дисплей : 320x192 монохромный, 160x96, 128 цветов</text>
+		</text>
+			
+	</view>
+	
+</theme>

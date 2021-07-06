@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Atari Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1986 (USA, JP) 1991 (EUR)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 3,77 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Atari SALLY 6502 ("6502C") @ 1.19-1.79MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 4KB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Cartridge ROM : 48KB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Audio/Video Processor : TIA/MARIA custom graphics controller</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Ports : 2 joystick ports, 1 cartridge port, 1 expansion connector, power in, RF output</text>
+		</text>
+		
+	</view>
+	
+</theme>
