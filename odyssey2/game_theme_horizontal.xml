@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(frogger,kcs_krazy_chase,stone_sling)/horizontal.xml</include>
-
-</theme>
