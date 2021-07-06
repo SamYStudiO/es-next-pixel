@@ -1,0 +1,43 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Atari Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1993 (US) 1994 (EU, JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : less than 250000</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Five Main Processors in three chips</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Tom Chip @ 26.59 MHz, Graphics Processor (32-bit RISC),</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Object (64-bit RISC), Blitter (64-bit RISC)</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Jerry Chip @ 26.59 MHz, Digital Signal Processor (32-bit)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Motorola 68000 (16-bit @ 13.295 MHz)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>RAM : 2MB</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Som : CD-quality sound (16-bit stereo)</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>Ecrã : Max resolution 800×576 at 24 bit "true" color</text>
+		</text>
+		
+	</view>
+	
+</theme>

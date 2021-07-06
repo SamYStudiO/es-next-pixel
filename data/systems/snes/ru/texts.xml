@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1990 (JP) 1991 (US) 1992 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 49.10 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Super Mario World</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 16-бит Custom 65C816 на 3.58 МГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 128Кб / Видеопамять : 64Кб</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Видео : 16-бит PPU (Блок обработки изображений)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 256x224, 256 цветов (32768 цветовая палитра)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук : 8-бит Sony SPC700, 8 каналов</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Размер картриджа: 256Кб - 6МБ</text>
+		</text>
+		
+	</view>
+	
+</theme>

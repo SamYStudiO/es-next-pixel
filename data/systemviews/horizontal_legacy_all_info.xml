@@ -3,7 +3,6 @@
 	<formatVersion>4</formatVersion>	
 	<include>./horizontal_legacy_common.xml</include>
 	<include>./common_info.xml</include>
-	<include>./../../$system/data/custom_horizontal_legacy.xml</include>
 
 	<view name="system">
 

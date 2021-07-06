@@ -1,0 +1,16 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Lutro é um LUA framework experimental</text>
+		</text>
+		<text name="info1" extra="true">
+			<text>para libretro seguindo o LÖVE API.</text>
+		</text>
+		
+	</view>
+	
+</theme>

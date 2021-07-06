@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Разработчики : Никола Сальмория и команда MAME</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Первый выпуск : 5 февраля 1997</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Сайт : http://mamedev.org/</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Написан на : C++</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>M.A.M.E - эмулятор или приложение, предназначенное для воссоздания</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>аппаратной части программного обеспечения аркадных игровых систем</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>на современных персональных компьютерах и других платформах.</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Её цель состоит в том, чтобы сохранить игровую историю, а также</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>не допустить потери старых игр или их забвения.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,35 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Le Sega Model 3 est une platforme d'arcade produite par Sega.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>C'est le successeur de la platforme Sega Model 2, il est sortie en 2016.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Le Model 3 à été succédé par le Sega NAOMI en 1998, puis par</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>le  Sega Hikaru en 1999 et le Sega NAOMI 2 en 2000.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Le Model 3 était designé pour afficher le plus possible de polygones</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>texturés en temps réel, avec les techniques graphiques les plus avancées</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>du moment, comme le multisample anti-aliasing, motion blur, facial, animation,</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>specular highlighting/reflection/shading, et plusieurs sources lumineuses.</text>
+		</text>
+
+		
+	</view>
+	
+</theme>

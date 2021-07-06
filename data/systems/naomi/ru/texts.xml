@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Sega</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1998</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU : Hitachi SH-4 32-бит RISC CPU (@ 200 МГц 360 MIPS / 1.4 GFLOPS)</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Графический процессор : NEC-Видеоlogic PowerVR (PVR2DC/CLX2) на 100 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Звук : ARM7 Yamaha AICA 45 MHZ (со встроенным 32-бит RISC CPU, 64 channel ADPCM)</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 56 МБ (64 МБ с GD-ПЗУ)</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Медиа : ROM Board (максимум 168 МБ) / GD-Rom</text>
+		</text>
+		
+	</view>
+	
+</theme>

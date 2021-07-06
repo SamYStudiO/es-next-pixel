@@ -1,0 +1,23 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Некоторые разработчики выпустили исходный код многих своих старых игр, что позволяет</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>запускать их как собственные приложения на многих альтернативных платформах, включая Linux.</text>
+		</text>	
+		<text name="info3" extra="true">
+			<text>Некоторые игры, выпущенные ранее для Linux, также можно было</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>расширять или обновлять из-за доступности игрового кода.</text>
+		</text>
+		
+	</view>
+	
+</theme>
+

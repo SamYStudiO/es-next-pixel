@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Commodore</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1982</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Commodore KERNAL / Commodore BASIC 2.0 GEOS</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : MOS Technology 6510/8500 @ 1.023 MHz (NTSC version)</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 64KB RAM</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 20KB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>GPU : MOS Technology VIC-II</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Som : MOS Technology 6581 SID</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Resolução : 320×200 (16 colours)</text>
+		</text>
+		
+	</view>
+	
+</theme>

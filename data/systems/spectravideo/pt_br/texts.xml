@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Spectravideo International</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1983</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Microsoft Extended BASIC, CP/M</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Zilog Z80A @ 3.58 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ROM: 32KB (16 KB BIOS / 16 KB BASIC)</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 16KB (SV-318) and 64Kb (SV-328) / VRAM : 16KB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video : Texas Instruments TMS9918</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolução : 256×192, 16 colors</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Som : General Instrument AY-3-8910 (PSG)</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Media : ROM Cartridge, Cassette tape</text>
+		</text>
+		
+	</view>
+	
+</theme>

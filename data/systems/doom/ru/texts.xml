@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Разработчик : id Software</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1993</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>DOOM - это серия видеоигр-шутеров от первого лица, </text>
+		</text>
+		<text name="info4" extra="true">
+			<text>разработанная id Software. Сериал посвящен подвигам </text>
+		</text>
+		<text name="info5" extra="true">
+			<text>неназванного космического десантника, действующего под </text>
+		</text>
+		<text name="info6" extra="true">
+			<text>эгидой ОАК, который борется с полчищами демонов, чтобы выжить. </text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Doom - одна из новаторских игр в жанре FPS, которая предоставляет </text>
+		</text>
+		<text name="info8" extra="true">
+			<text>IBM-совместимым компьютерам такие функции, как трехмерная графика, </text>
+		</text>
+		<text name="info9" extra="true">
+			<text>трехмерная пространственность и поддержка созданных </text>
+		</text>
+		<text name="info10" extra="true">
+			<text>игроками модификаций в формате Doom WAD.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Sony</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 2000 (JP, US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 158 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Grand Theft Auto: San Andreas</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : R5900-based "Emotion Engine" на 294-299 МГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Графический процессор : "Графика Synthesizer" на 149 МГц</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>ОЗУ : 32 МБ PC800 32-бит двухканальный RDRAM на 400 МГц</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Видеопамять : 4 МБ</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Разрешение : 256x224 to 1920x1080</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Медиа : DVD, CD</text>
+		</text>
+		
+	</view>
+	
+</theme>

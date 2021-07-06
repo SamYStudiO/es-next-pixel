@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Fairchild Semiconductor</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1976 (US) 1977 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 250000</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Fairchild F8 @ 1.79 MHz (PAL 2.22 MHz)</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 64 bytes</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>VRAM : 2 kB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Resolução : 128x64, 8 colors</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Audio : 500 Hz, 1 kHz and 1.5 kHz tones (can be modulated)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Media : ROM Cartridge</text>
+		</text>
+		
+	</view>
+	
+</theme>

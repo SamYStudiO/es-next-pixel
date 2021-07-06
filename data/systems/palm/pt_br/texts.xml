@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Palm, Inc.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 2002</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Palm OS version 4.1</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Motorola DragonBall VZ MC68VZ328 @ 33 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 16 MB RAM</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 4 MB Flash</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Ecrã : 160×160 pixel (65,000+ colors)</text>
+		</text>
+		
+	</view>
+	
+</theme>

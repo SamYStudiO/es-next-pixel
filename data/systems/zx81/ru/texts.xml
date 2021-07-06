@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Разработчик : Sinclair Research</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Производитель : Timex Corporation</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Год Выпуска : 1981</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Продано устройств : 1.5 миллиона</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : Z80 на 3.25 МГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Память : 1 КБ (64 КБ макс. 56 КБ доступно)</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Накопитель : Внешний рекордер кассет на 250 бод</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Дисплей : Монохромный дисплей на УВЧ телевидении</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Графика : 24 линии x 32 символов или режим 64 x 48 пикселей</text>
+		</text>
+		
+	</view>
+	
+</theme>

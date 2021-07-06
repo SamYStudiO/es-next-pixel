@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Commodore International</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1993 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : AmigaОС 3.1</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Motorola 68EC020 на 14.32 МГц (NTSC), 14.18 МГц (PAL)</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 2 МБ</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ПЗУ : 1 МБ Kickstart w/ CD32 firmware, 1 КБ EEPПЗУ для game saves</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Графический процессор : Advanced Grafic Architecture</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Звуковой чип : 4 × 8-бит PCM каналов</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Разрешение : 320x200 до 1280x400i (NTSC), 320x256 до 1280x512i (PAL)</text>
+		</text>
+		
+	</view>
+	
+</theme>

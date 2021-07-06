@@ -1,0 +1,28 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Constructeur : Benesse Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie : 2000</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU : 16Bits NEC V20</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Mémoire video : 512k</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Résolution : 224 x 144 pixels</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Audio : 4 cannaux PCM, 32 échantillons 4Bit pour chaque cannaux</text>
+		</text>
+		
+	</view>
+	
+</theme>

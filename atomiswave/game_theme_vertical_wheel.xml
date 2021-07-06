@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../data/games/$random(dolphin_blue,hokuto_no_ken,metal_slug_6)/vertical_wheel.xml</include>
+
+</theme>

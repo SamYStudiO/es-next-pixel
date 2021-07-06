@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Bandai</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1996 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Медиа : SuFami Turbo Application Картридж + Игровой картридж</text>
+		</text>
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+		<text name="info5" extra="true">
+			<text>SuFami Turbo от Bandai предоставила разработчикам более дешевые способы создания и </text>
+		</text>
+		<text name="info6" extra="true">
+			<text>выпуска небольшого количества игр Super Famicom. </text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Два слота для картриджей предназначены для обмена данными между играми. </text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Будет воспроизведен слот A, а слот B предоставит дополнительные данные.</text>
+		</text>
+		
+	</view>
+	
+</theme>

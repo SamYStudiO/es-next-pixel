@@ -1,0 +1,43 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Atari Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1993 (US) 1994 (EU, JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : чуть меньше 250000</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : 5 процессоров в 3х чипах</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Tom Chip на 26.59 МГц, графический процессор (32-бит RISC),</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Object (64-бит RISC), Blitter (64-бит RISC)</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Jerry Chip на 26.59 МГц, Цифровой сигнальный процессор (32-бит)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Motorola 68000 (16-бит на 13.295 МГц)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>ОЗУ : 2МБ</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Звук : Качества CD (16-бит стерео)</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>Дисплей : Максимальное разрешение 800×576 на 24 бит "true color"</text>
+		</text>
+		
+	</view>
+	
+</theme>

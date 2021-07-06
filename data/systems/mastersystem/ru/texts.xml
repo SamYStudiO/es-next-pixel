@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Sega</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1985 (JP) 1986 (US) 1987 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 13 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Alex Kiddin Miracle World</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 8-битный Zilog Z80 на 3.58 МГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 8Кб / Видеопамять : 16Кб</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Видео : Sega VDP (custom Texas Instruments TMS9918)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 256 × 192 пикселей, 32 цвета (64 цветовая палитра)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук : TI SN76489 PSG / add-on module YM2413 FM</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Размер картриджа: 32Кб - 1МБ</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../data/games/$random(another_world,laigle_dor,maniac_mansion_apple2_scummvm,myst,pirate_cove,the_secret_of_monkey_island_macintosh_pc_scummvm,shenmue,simon_the_sorcerer,snatcher,the_legend_of_zelda_the_minish_cap,the_legend_of_zelda_twilight_princess)/vertical_wheel.xml</include>
+
+</theme>

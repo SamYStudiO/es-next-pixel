@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Sega</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1990 (JP) 1991 (US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 11 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : 8-Bit Zilog Z80 @ 3.58 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 8kB / VRAM : 16kB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Video : Sega VDP (custom Texas Instruments TMS9918)</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Resolução : 160 x 146 pixels, 32 colors (4096 colors palette)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Som : TI SN76489 PSG</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Tamanha carta : 32kB - 1MB</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>ecrã : 8.128cm (3.2 inches), backlit LCD</text>
+		</text>
+		
+	</view>
+	
+</theme>
