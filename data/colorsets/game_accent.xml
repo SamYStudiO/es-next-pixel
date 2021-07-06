@@ -2,7 +2,7 @@
 
 	<formatVersion>4</formatVersion>
 	<include>./common.xml</include>	
-	<include>./../../$system/color_accent.xml</include>	
+	<include>./../../$system/game_theme_color_accent.xml</include>
 
 	<feature supported="carousel">
 

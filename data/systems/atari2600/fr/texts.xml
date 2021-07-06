@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Constructeur : Atari Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie : 1977 (US) 1978-1981 (EU) 1983 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unités vendues : 30 millions</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Meilleur vente : Pac-Man</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 8-bit MOS 6507 @ 1.19 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 128 octets</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Audio/Video Processor : TIA</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Résolution : 160 x 192 pixels, 4 couleurs par ligne (palette de 128 couleurs)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Audio : 2 cannaux audio monaural de 1-bit avec u control du volume 4-bit</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Taille des cartouches : 2 Ko - 32 Ko </text>
+		</text>
+		
+	</view>
+	
+</theme>

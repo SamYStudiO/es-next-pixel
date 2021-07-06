@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Sony Computer Entertainment</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1994 (JP) 1995 (US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 102.48 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Melhor venda : Gran Turismo</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 32-bit R3000A RISC running at 33.8688 Mhz </text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 16 Mbits</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Picture Processor Unit : 32-bit</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Video RAM : 8 Mbits</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Audio RAM : 4 Mbits</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>GPU : GFX processor unit</text>
+		</text>
+		
+	</view>
+	
+</theme>

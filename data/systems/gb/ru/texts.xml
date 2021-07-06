@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1989 (JP, US) 1990 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 118.69 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Tetris</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 8-бит Zilog Z80 на 4.194304МГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : 8Кб / Видеопамять : 8Кб</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Видео : PPU (встроенное в CPU)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Разрешение : 160x144 пикселей, 4 уровня серого цветы</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук : 4х канальный стерео звук</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Размер картриджа: 32Кб - 1МБ</text>
+		</text>
+		
+	</view>
+	
+</theme>

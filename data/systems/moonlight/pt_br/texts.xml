@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Creado por : Case Western Reserve University students</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Posto em linux por : irtimmer</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Type : Open Source implementation</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Ano de saida : 2013</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>PC compatibilidade : GFA PC with GTX 600/700/900/ ... GPU</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Soft necessario : Nvidia GeForce Experience</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Moonlight permite-vos de stream uma coleção de jogos de steam</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>do vosso NVIDIA GFE PC para o vosso rpi.</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Moonlighté perfeito para jogabilidade em movimento sem</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>sacrificando a qualidade gráfica do seu computador de jogo.</text>
+		</text>
+		
+	</view>
+	
+</theme>

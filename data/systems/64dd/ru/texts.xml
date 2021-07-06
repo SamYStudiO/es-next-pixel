@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1999 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 15.000</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : 64-бит NEC VR4300 на 93.75 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Co-CPU : 64-бит MIPS RISC "Reality Immersion" RCP на 62.5 МГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>64DD-CPU : 32-бит co-process или для reading/transferring disk data</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>ОЗУ : 4 МБ RAМ BUS RDRAM (расширяемый до 8 МБ)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Звук  : Стерео 16-Бит и 48 кГц</text>
+		</text>
+		
+	</view>
+	
+</theme>

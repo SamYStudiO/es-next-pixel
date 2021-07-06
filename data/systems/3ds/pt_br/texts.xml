@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 2011 (JP, EU, US)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Vendas : 72.53 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Melhor venda : Mario Kart 7</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 268MHz Dual-Core ARM11 MPCore + single-core ARM9</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>FCRAM : 128MB / Video RAM : 6MB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Ecrã : Reflective TFT Colour LCD</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolução : 800 x 240 pixels (16.7 million colours)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Som : Stereo speakers w/virtual surround, headphones</text>
+		</text>
+		
+	</view>
+	
+</theme>

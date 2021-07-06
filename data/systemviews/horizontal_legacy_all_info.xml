@@ -1,0 +1,55 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+	<include>./horizontal_legacy_common.xml</include>
+	<include>./common_info.xml</include>
+
+	<view name="system">
+
+		<image name="system_info_background" extra="true">
+			<pos>.5 .64</pos>
+			<origin>.5 0</origin>
+			<size>.5 .5</size>
+			<path>./../arts/system_info_gradient_background.png</path>
+		</image>
+
+		<text name="info1" extra="true">
+			<pos>.5 .69</pos>
+		</text>
+		<text name="info2" extra="true">
+			<pos>.5 .71</pos>
+		</text>
+		<text name="info3" extra="true">
+			<pos>.5 .73</pos>
+		</text>
+		<text name="info4" extra="true">
+			<pos>.5 .75</pos>
+		</text>
+		<text name="info5" extra="true">
+			<pos>.5 .77</pos>
+		</text>
+		<text name="info6" extra="true">
+			<pos>.5 .79</pos>
+		</text>
+		<text name="info7" extra="true">
+			<pos>.5 .81</pos>
+		</text>
+		<text name="info8" extra="true">
+			<pos>.5 .83</pos>
+		</text>
+		<text name="info9" extra="true">
+			<pos>.5 .85</pos>
+		</text>
+		<text name="info10" extra="true">
+			<pos>.5 .87</pos>
+		</text>
+		<text name="info11" extra="true">
+			<pos>.5 .89</pos>
+		</text>
+		<text name="info12" extra="true">
+			<pos>.5 .91</pos>
+		</text>
+
+	</view>
+
+</theme>

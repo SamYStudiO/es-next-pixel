@@ -1,0 +1,43 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Um jogo de arcade ou de jogo de moedas é uma maquina que funciona com moedas</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>para entretenimento. A maioria dos jogos de arcade são de vídeo</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>jogos, maquinas de pinball , jogos electronicos,</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>jogos de resgate, ou comerciantes.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Enquanto datas exatas são debatidas, a idade de ouro dos jogos de arcade</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>jogos videos, geralmente é definida como um periodo que começa</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>no final da década 1970 e termina no meio da década de 1980.</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Excluindo um breve ressurgimento no inicio dos anos 90</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>a industria declinou no hemisfério ocidantal</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>à medida que os consoles concorrentes comestico aumentavam sua capacidade grafica</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>e de jogo e diminuiam o custo.</text>
+		</text>
+
+	</view>
+	
+</theme>

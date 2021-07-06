@@ -1,0 +1,22 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Encontre os seus jogos favoridos num unico sistema.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Cada vez que marque um jogo como favorido num sistema,</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>o encontrara aqui.</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Aproveite !</text>
+		</text>
+		
+	</view>
+	
+</theme>

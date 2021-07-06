@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Создано: Студентами Университета Кейс Вестерн Резерв</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Портировано на Linux: irtimmer</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Тип: реализация с открытым исходным кодом</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Год первого выпуска: 2013 г.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Совместимость с ПК: GFA PC с GTX 600/700/900 / ... VCPU</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Необходимый софт: Nvidia GeForce Experience</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Moonlight позволяет транслировать вашу коллекцию игр Steam</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>с вашего ПК NVIDIA GFE на ваш rpi.</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Moonlight идеально подходит для игр на ходу,</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>не жертвуя качеством графики вашего игрового компьютера.</text>
+		</text>
+		
+	</view>
+	
+</theme>

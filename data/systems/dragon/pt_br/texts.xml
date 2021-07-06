@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Manufacturer :  Dragon Data, Ltd. / Tano Corp.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1982 (EU) 1983 (US)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Microsoft Extended BASIC</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Motorola 6809E @ 0.89 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 32/64 KB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Resolution : max 256 x 192, 8 colours</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Sound : 1 voice, 5 octaves with the Basic / 4 voices, 7 octaves with machine code</text>
+		</text>
+		
+	</view>
+	
+</theme>

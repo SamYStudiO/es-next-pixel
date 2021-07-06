@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1995 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 2 миллиона</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Медиа : BS-X Application Картридж + опционально 8МБ Память</text>
+		</text>
+		<text name="info5" extra="true">
+			<text></text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Satellaview - это периферийный спутниковый модем для .</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>системы Nintendo Super Famicom. В комплекте со </text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Satellaview шел картридж для приложений с названием</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>BS-X: История города, имя которого было украдено.</text>
+		</text>
+		
+	</view>
+	
+</theme>

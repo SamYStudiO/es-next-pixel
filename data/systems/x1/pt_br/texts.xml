@@ -1,0 +1,37 @@
+﻿<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Sharp Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1982</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : CP/M</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Sharp Z80 A running @ 4 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 64 KB / VRAM : 4 KB (up to 48 KB)</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 6 KB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>GPU : Sharp-Hudson Custom Chipset</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Som chip : General Instrument AY-3-8910 or Yamaha YM2149</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Ecrã : 320 x 200 / 640 x 200 (8 colours)</text>
+		</text>
+		
+	</view>
+	
+</theme>

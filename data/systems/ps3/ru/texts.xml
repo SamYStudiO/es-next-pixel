@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Sony, Foxconn, Asus</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 2006 (JP, US) 2007 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 83.8 миллиона</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Grand Theft Auto V</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : Cell Broadband Engine на 3.2 GHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Графический процессор : RSX "Reality Synthesizer" на 500МГц</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>ОЗУ : 256МБ XDR на 3.2 GHz</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Видеопамять : 256МБ GDDR3 на 700 МГц</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Разрешение : 480i, 480p, 720p, 1080i, 1080p</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Медиа : Blu-Ray, DVD, Компакт-диски, PlayStation 1 и 2 диски, Звуковые CD</text>
+		</text>
+		
+	</view>
+
+</theme>

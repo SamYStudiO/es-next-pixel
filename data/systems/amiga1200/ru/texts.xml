@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Commodore</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1992</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ОС : AmigaОС 3.0/3.1</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Motorola 68EC020 запущенный на 14.32 МГц</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 2 МБ</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ПЗУ : 512 КБ Kickstart 3.0-3.1 ПЗУ</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Графический процессор : Advanced Графика Architecture</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Звуковой чип : 4× 8-бит PCM каналов</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Разрешение : 320x200 to 1504x484 (16.8 миллионов цветов)</text>
+		</text>
+		
+	</view>
+	
+</theme>

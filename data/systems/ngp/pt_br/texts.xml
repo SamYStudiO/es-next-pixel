@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : SNK</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1998 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : 2 million, including color version</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPUs : Toshiba TLCS900H @ 6.144 MHz, Z80 @ 3.072 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 12K for 900H, 4K for Z80</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 64 Kbytes</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Picture Processor Unit : 16-bit</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolução : 160x152 (256×256 virtual screen)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Media : ROM cartridge 4 MB max</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../data/games/$random(castlevania,duck_tales,gradius_msx_nes_pc88_x1,super_mario_bros_3,teenage_mutant_ninja_turtles,tetris_nes,the_legend_of_zelda_nes)/vertical_wheel.xml</include>
+
+</theme>

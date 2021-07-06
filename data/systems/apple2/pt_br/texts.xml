@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Construtor : Apple Computer, Inc.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1977</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Integer BASIC</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : MOS Technology 6502 @ 1 Mhz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 4KB to 64KB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 8KB (Basic Integer)</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Sound : 1-bit speaker (built-in)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolução : Lo-res (40×48, 16-color) Hi-res (280×192, 6 color)</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Programador : Sinclair Research</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Construtor : Timex Corporation</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Ano de saida : 1981</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Unidades vendidas : 1.5 million</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : Z80 at 3.25 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Memoria : 1 KB (64 KB max. 56 KB usable)</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Storage : External cassette tape recorder at 250 baud</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Ecrã : Monochrome display on UHF television</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Graficos : 24 lines x 32 characters or 64 x 48 pixels graphics mode</text>
+		</text>
+		
+	</view>
+	
+</theme>

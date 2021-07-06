@@ -2,6 +2,7 @@
 
 	<formatVersion>4</formatVersion>	
 	<include>./common.xml</include>
+	<include>./../../$system/game_theme_horizontal.xml</include>
 
 	<feature supported="carousel">
 
@@ -30,10 +31,6 @@
 	</feature>
 
 	<view name="system">
-
-		<image name="background" extra="true">
-			<path>./../../$system/background.jpg</path>
-		</image>
 
 		<image name="console" extra="true">
 			<pos>.97 .82</pos>

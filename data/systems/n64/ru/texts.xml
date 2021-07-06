@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1996 (JP, US) 1997 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 32.93 миллионов</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Самая продаваемая игра : Super Mario 64</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : MIPS 64Бит RISC CPU на 93.75МГц</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ОЗУ : RAМ BUS D-RAM 36Мбит</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Скорость передачи : 4500Мбит/с</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Co-CPU : RCP - SP/DP на 62.5МГц </text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Звук  : Стерео 16бит 48 кГц</text>
+		</text>
+		
+	</view>
+	
+</theme>

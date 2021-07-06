@@ -8,7 +8,7 @@
 		</Item>
 
 		<!-- DEFAULT COMPUTERS FLAT SCREEN -->
-		<Item IfSystem="IsNotInTheList:29,130,26,40,41,80,48,23,106,13,87,115,27,2,1,14,142,70,3,104,31,114,72,57,107,22,19,20,109,4,108,105,58,59,16,18,135,213,218,43,42,113,118,116,117,64,111,66,65,79,76,77,131,141,123,49,75,56,53,17,129,86,217,21,9,12,10,52,28,146,15,25,82,219,221,208,211,61,102,11,45,46,220">
+		<Item IfSystem="IsNotInTheList:26,40,41,80,48,106,115,2,3,104,67,109,29,122,130,23,13,87,27,1,14,142,70,31,114,72,58,57,107,22,19,20,4,108,105,59,16,18,64,111,65,43,42,93,66,91,113,116,117,118,131,135,213,123,218,141,73,79,77,76,53,49,75,55,56,17,129,86,217,21,9,12,10,52,28,146,15,25,82,219,221,208,237,211,61,207,102,11,45,46,220">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="./systems/computer_flat.png">
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />
@@ -22,8 +22,8 @@
 			</Children>
 		</Item>
 
-		<!-- CONSOLES OLD atari2600,atari5200,atari7800,channelf,colecovision,fds,intellivision,mastersystem,multivision,nes,odyssey2,sg1000 -->
-		<Item IfSystem="IsInTheList:26,40,41,80,48,106,115,2,3,104,109">
+		<!-- CONSOLES OLD atari2600,atari5200,atari7800,channelf,colecovision,fds,intellivision,mastersystem,multivision,nes,odyssey2,scv,sg1000 -->
+		<Item IfSystem="IsInTheList:26,40,41,80,48,106,115,2,3,104,67,109">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="./systems/console_old.png">
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />
@@ -37,8 +37,8 @@
 			</Children>
 		</Item>
 
-		<!-- CONSOLES 3do,amigacd32,dreamcast,gc,gx4000,jaguar,megadrive,n64,neogeo,neogeocd,pcengine,pcenginecd,pcfx,ps2,psx,satellaview,saturn,sega32x,segacd,snes,sufami,supergrafx -->
-		<Item IfSystem="IsInTheList:29,130,23,13,87,27,1,14,142,70,31,114,72,58,57,107,22,19,20,4,108,105">
+		<!-- CONSOLES 3do,64dd,amigacd32,dreamcast,gc,gx4000,jaguar,megadrive,n64,neogeo,neogeocd,pcengine,pcenginecd,pcfx,ps2,psx,satellaview,saturn,sega32x,segacd,snes,sufami,supergrafx -->
+		<Item IfSystem="IsInTheList:29,122,130,23,13,87,27,1,14,142,70,31,114,72,58,57,107,22,19,20,4,108,105">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="./systems/console.png">
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />
@@ -67,8 +67,8 @@
 			</Children>
 		</Item>
 
-		<!-- COMPUTERS amiga600,amiga1200,amstradcpc,atari800,atarist,c64,msx,msx2,msx2+,msxturbor,oric,pc,prboom,samcoupe,scummvm,spectravideo,to8,x68000,zx81,zxspectrum -->
-		<Item IfSystem="IsInTheList:64,111,65,43,42,66,113,116,117,118,131,135,213,123,218,141,79,77,76">
+		<!-- COMPUTERS amiga600,amiga1200,amstradcpc,atari800,atarist,bk,c64,dragon,msx,msx2,msx2+,msxturbor,oric,pc,prboom,samcoupe,scummvm,spectravideo,to8,vic20,x68000,zx81,zxspectrum -->
+		<Item IfSystem="IsInTheList:64,111,65,43,42,93,66,91,113,116,117,118,131,135,213,123,218,141,73,79,77,76">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="./systems/computer.png">
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />
@@ -82,8 +82,8 @@
 			</Children>
 		</Item>
 
-		<!-- ARCADE arcade,atomiswave,daphne,fba,fba_libretro,mame,naomi -->
-		<Item IfSystem="IsInTheList:53,49,75,56">
+		<!-- ARCADE arcade,atomiswave,daphne,fba,fbneo,mame,model3,naomi -->
+		<Item IfSystem="IsInTheList:53,49,75,55,56">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="./systems/arcade.png">
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />
@@ -294,6 +294,18 @@
 				</Item>
 			</Children>
 		</Item>
+		
+		<!-- pcv2 -->
+		<Item IfSystem="IsInTheList:237">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="38.796%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="38.796%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
 
 		<!-- pokemini -->
 		<Item IfSystem="IsInTheList:211">
@@ -314,6 +326,18 @@
 					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="33.333%" KeepRatio="false" Anchor="VCenterHCenter"/>
 					<Fallback Type="Screenshot">
 						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="33.333%" KeepRatio="false" Anchor="VCenterHCenter"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+		
+		<!-- supervision -->
+		<Item IfSystem="IsInTheList:207">
+			<Children>
+				<Item Type="Screenshot">
+					<Display X="57.143%" Y="35.463%" Width="37.302%" Height="43.519%" KeepRatio="false" Anchor="VCenterHCenter"/>
+					<Fallback Type="ScreenshotTitle">
+						<Display X="57.143%" Y="35.463%" Width="37.302%" Height="43.519%" KeepRatio="false" Anchor="VCenterHCenter"/>
 					</Fallback>
 				</Item>
 			</Children>

@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>MConstrutor : Thomson</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1986</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU : Motorola 6809E @ 1 MHz</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>RAM : 256kB, ROM : 80kB</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>8 Display modes, palette of 4096 colors </text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Resolução baixa: 160 × 200 (16, 5 or 2 colors)</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>resolução media: 320 × 200 (16, 4, 3 or 2 colors)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolução alta: 640 × 200 (2 colors)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Media : Cartridge, external 3½" floppy disk and tape drives</text>
+		</text>
+		
+	</view>
+	
+</theme>

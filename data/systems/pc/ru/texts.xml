@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель: IBM</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1981</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Персональный компьютер IBM, широко известный как IBM PC, является исходной</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>версией и потомком аппаратной платформы, совместимой с IBM PC.</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Это модель IBM № 5150, она была представлена 12 августа 1981 года.</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Она была создана командой инженеров и дизайнеров под руководством Дона Эстриджа</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>из подразделения IBM Entry Systems Division в Бока-Ратон, Флорида.</text>
+		</text>
+		
+	</view>
+	
+</theme>

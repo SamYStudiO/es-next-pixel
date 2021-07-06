@@ -1,0 +1,43 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Аркадная игра или игра с монетами - это развлекательный </text>
+		</text>
+		<text name="info2" extra="true">
+			<text>автомат с монетоприемником. Большинство аркадных игр - </text>
+		</text>
+		<text name="info3" extra="true">
+			<text>это видеоигры, автоматы для пинбола, электромеханические </text>
+		</text>
+		<text name="info4" extra="true">
+			<text>игры, игры на выкуп или мерчандайзеры. </text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Хотя точные даты обсуждаются, золотой век аркадных видеоигр обычно</text>
+		</text>
+		<text name="info6" extra="true">
+			<text> определяется как период, начинающийся где-то в конце 1970-х и </text>
+		</text>
+		<text name="info7" extra="true">
+			<text>заканчивающийся где-то в середине 1980-х. За исключением </text>
+		</text>
+		<text name="info8" extra="true">
+			<text>кратковременного возрождения в начале 1990-х, индустрия игровых</text>
+		</text>
+		<text name="info9" extra="true">
+			<text> автоматов впоследствии пришла в упадок в Западном полушарии,</text>
+		</text>
+		<text name="info10" extra="true">
+			<text> поскольку у конкурирующих домашних игровых консолей увеличилась </text>
+		</text>
+		<text name="info11" extra="true">
+			<text>графика и возможности игрового процесса, а также снизилась стоимость.</text>
+		</text>
+
+	</view>
+	
+</theme>

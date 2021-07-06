@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Производитель : Fairchild Semiconductor</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Год Выпуска : 1976 (US) 1977 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Продано устройств : 250000</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Fairchild F8 на 1.79 МГц (PAL 2.22 МГц)</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ОЗУ : 64 байта</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Видеопамять : 2 Кб</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Разрешение : 128x64, 8 цветов</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Звук : 500 Hz, 1 кГц и 1.5 кГц тоны (модулируемые)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Медиа : ПЗУ Картридж</text>
+		</text>
+		
+	</view>
+	
+</theme>

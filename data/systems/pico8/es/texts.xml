@@ -1,0 +1,35 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Developer : Lexaloffle Games</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Initial release : 2015</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Website : www.pico-8.com</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Built-in features: Lua code editor, sprite and map creation tools, and an audio sound effect and music editor.</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Display : 128x128 pixels, 16-color palette</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Sprites : 256 8x8 foreground sprites, 128x32 cels map</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sound : 4 channel chip blerps</text>
+		</text>
+
+		
+	</view>
+	
+</theme>

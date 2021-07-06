@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../data/games/$random(gradius_pcengine,space_harrier_pcengine)/gamelist.xml</include>
+
+</theme>

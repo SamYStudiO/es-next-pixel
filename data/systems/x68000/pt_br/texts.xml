@@ -1,0 +1,37 @@
+﻿<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>MConstrutor : Sharp</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de saida : 1987</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Human68k</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Motorola 68000 running @ 10 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 1-4 MB (expandable up to 12 MB) / VRAM 1056 KB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 1 MB (128 KB BIOS, 768 KB Character Generator)</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>GPU : Sharp-Hudson Custom Chipset</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Som chip : Yamaha YM2151</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Resolução : 512x512 (65536 colours)</text>
+		</text>
+		
+	</view>
+	
+</theme>
